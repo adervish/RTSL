@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Air Navigation Pro for iOS and Android" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata>
+        <extensions>
+            <userDefinedSpeed>61.733333</userDefinedSpeed>
+        </extensions>
+    </metadata>
+    <wpt lat="33.9273000063823" lon="-4.97799999633721">
+        <ele>578</ele>
+        <name>GMFF</name>
+        <desc>FES SAÏSS</desc>
+        <type>Airport</type>
+        <extensions>
+            <planned_altitude_after>740</planned_altitude_after>
+        </extensions>
+    </wpt>
+    <wpt lat="34.07763" lon="-5.337389">
+        <ele>196</ele>
+        <name>BGE SIDI CHAHED</name>
+        <desc>BGE SIDI CHAHED</desc>
+        <type>Unknown Type</type>
+    </wpt>
+    <wpt lat="34.49778" lon="-5.511944">
+        <ele>78</ele>
+        <name>JORF EL MELHA</name>
+        <desc>JORF EL MELHA</desc>
+        <type>Unknown Type</type>
+    </wpt>
+    <wpt lat="34.7980202116298" lon="-5.5809354872039">
+        <ele>298</ele>
+        <name>OUEZZANE</name>
+        <desc>OUEZZANE</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="35.582441354132" lon="-5.50021168120098">
+        <ele>65</ele>
+        <name>BGE AJRAS</name>
+        <desc>BGE AJRAS</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="35.833333355558" lon="-5.14361114434234">
+        <ele>0</ele>
+        <name>GALTO</name>
+        <desc>GALTO</desc>
+        <type>Significant point</type>
+    </wpt>
+    <wpt lat="36.2069444570875" lon="-4.67213885520169">
+        <ele>0</ele>
+        <name>MABEL</name>
+        <desc>MABEL</desc>
+        <type>Significant point</type>
+    </wpt>
+    <wpt lat="36.3805277473932" lon="-4.35083329545019">
+        <ele>0</ele>
+        <name>ETROV</name>
+        <desc>ETROV</desc>
+        <type>Significant point</type>
+    </wpt>
+    <wpt lat="36.5860833304567" lon="-4.10888891778972">
+        <ele>0</ele>
+        <name>PISAV</name>
+        <desc>PISAV</desc>
+        <type>Significant point</type>
+    </wpt>
+    <wpt lat="36.8008880917408" lon="-4.1346056090881">
+        <ele>37</ele>
+        <name>LEAX</name>
+        <desc>La Axarquía-Leoni Benabu</desc>
+        <type>Airport</type>
+        <extensions/>
+    </wpt>
+    <rte>
+        <name>Fes Saïss - La Axarquia - Leoni Benabu</name>
+        <rtept lat="33.9273000063823" lon="-4.97799999633721">
+            <ele>578</ele>
+            <name>GMFF</name>
+            <desc>FES SAÏSS</desc>
+            <type>Airport</type>
+            <extensions>
+                <planned_altitude_after>740</planned_altitude_after>
+            </extensions>
+        </rtept>
+        <rtept lat="34.07763" lon="-5.337389">
+            <ele>196</ele>
+            <name>BGE SIDI CHAHED</name>
+            <desc>BGE SIDI CHAHED</desc>
+            <type>Unknown Type</type>
+        </rtept>
+        <rtept lat="34.49778" lon="-5.511944">
+            <ele>78</ele>
+            <name>JORF EL MELHA</name>
+            <desc>JORF EL MELHA</desc>
+            <type>Unknown Type</type>
+        </rtept>
+        <rtept lat="34.7980202116298" lon="-5.5809354872039">
+            <ele>298</ele>
+            <name>OUEZZANE</name>
+            <desc>OUEZZANE</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="35.582441354132" lon="-5.50021168120098">
+            <ele>65</ele>
+            <name>BGE AJRAS</name>
+            <desc>BGE AJRAS</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="35.833333355558" lon="-5.14361114434234">
+            <ele>0</ele>
+            <name>GALTO</name>
+            <desc>GALTO</desc>
+            <type>Significant point</type>
+        </rtept>
+        <rtept lat="36.2069444570875" lon="-4.67213885520169">
+            <ele>0</ele>
+            <name>MABEL</name>
+            <desc>MABEL</desc>
+            <type>Significant point</type>
+        </rtept>
+        <rtept lat="36.3805277473932" lon="-4.35083329545019">
+            <ele>0</ele>
+            <name>ETROV</name>
+            <desc>ETROV</desc>
+            <type>Significant point</type>
+        </rtept>
+        <rtept lat="36.5860833304567" lon="-4.10888891778972">
+            <ele>0</ele>
+            <name>PISAV</name>
+            <desc>PISAV</desc>
+            <type>Significant point</type>
+        </rtept>
+        <rtept lat="36.8008880917408" lon="-4.1346056090881">
+            <ele>37</ele>
+            <name>LEAX</name>
+            <desc>La Axarquía-Leoni Benabu</desc>
+            <type>Airport</type>
+            <extensions/>
+        </rtept>
+    </rte>
+</gpx>

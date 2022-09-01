@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Air Navigation Pro for iOS and Android" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata>
+        <extensions>
+            <userDefinedSpeed>61.733333</userDefinedSpeed>
+        </extensions>
+    </metadata>
+    <wpt lat="35.5944444053388" lon="-5.32000001379242">
+        <ele>42.5</ele>
+        <name>GMTN</name>
+        <desc>TETOUAN / Saniat R’mel</desc>
+        <type>Airport</type>
+        <extensions>
+            <planned_altitude_after>155</planned_altitude_after>
+        </extensions>
+    </wpt>
+    <wpt lat="35.582441354132" lon="-5.50021168120098">
+        <ele>65</ele>
+        <name>BGE AJRAS</name>
+        <desc>BGE AJRAS</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="35.00174" lon="-5.90534">
+        <ele>18</ele>
+        <name>Ksar el Kebir</name>
+        <desc>KSAR EL KEBIR</desc>
+        <type>Unknown Type</type>
+    </wpt>
+    <wpt lat="34.5222222940702" lon="-6.31499998012324">
+        <ele>10</ele>
+        <name>IBDIR</name>
+        <desc>IBDIR</desc>
+        <type>Significant point</type>
+    </wpt>
+    <wpt lat="33.8930234870357" lon="-6.31117061055431">
+        <ele>344</ele>
+        <name>TIFLET</name>
+        <desc>TIFLET</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="33.5724999630876" lon="-6.89416667270494">
+        <ele>410</ele>
+        <name>BAKRA</name>
+        <desc>BAKRA</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="33.4975000848423" lon="-7.33166681559776">
+        <ele>100</ele>
+        <name>KOSAD</name>
+        <desc>KOSAD</desc>
+        <type>Significant point</type>
+    </wpt>
+    <wpt lat="33.5936110993561" lon="-7.46444442489282">
+        <ele>101</ele>
+        <name>GMMT</name>
+        <desc>CASABLANCA / TIT MELLIL</desc>
+        <type>Airport</type>
+        <extensions/>
+    </wpt>
+    <rte>
+        <name>TETOUAN  Saniat R’mel - Casablanca Tit Mellil</name>
+        <rtept lat="35.5944444053388" lon="-5.32000001379242">
+            <ele>42.5</ele>
+            <name>GMTN</name>
+            <desc>TETOUAN / Saniat R’mel</desc>
+            <type>Airport</type>
+            <extensions>
+                <planned_altitude_after>155</planned_altitude_after>
+            </extensions>
+        </rtept>
+        <rtept lat="35.582441354132" lon="-5.50021168120098">
+            <ele>65</ele>
+            <name>BGE AJRAS</name>
+            <desc>BGE AJRAS</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="35.00174" lon="-5.90534">
+            <ele>18</ele>
+            <name>Ksar el Kebir</name>
+            <desc>KSAR EL KEBIR</desc>
+            <type>Unknown Type</type>
+        </rtept>
+        <rtept lat="34.5222222940702" lon="-6.31499998012324">
+            <ele>10</ele>
+            <name>IBDIR</name>
+            <desc>IBDIR</desc>
+            <type>Significant point</type>
+        </rtept>
+        <rtept lat="33.8930234870357" lon="-6.31117061055431">
+            <ele>344</ele>
+            <name>TIFLET</name>
+            <desc>TIFLET</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="33.5724999630876" lon="-6.89416667270494">
+            <ele>410</ele>
+            <name>BAKRA</name>
+            <desc>BAKRA</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="33.4975000848423" lon="-7.33166681559776">
+            <ele>100</ele>
+            <name>KOSAD</name>
+            <desc>KOSAD</desc>
+            <type>Significant point</type>
+        </rtept>
+        <rtept lat="33.5936110993561" lon="-7.46444442489282">
+            <ele>101</ele>
+            <name>GMMT</name>
+            <desc>CASABLANCA / TIT MELLIL</desc>
+            <type>Airport</type>
+            <extensions/>
+        </rtept>
+    </rte>
+</gpx>

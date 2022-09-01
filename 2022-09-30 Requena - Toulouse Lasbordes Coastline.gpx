@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Air Navigation Pro for iOS and Android" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata>
+        <extensions>
+            <userDefinedSpeed>61.733333</userDefinedSpeed>
+        </extensions>
+    </metadata>
+    <wpt lat="39.4747222256079" lon="-1.03444449572759">
+        <ele>713</ele>
+        <name>LERE</name>
+        <desc>Requena</desc>
+        <type>Airport</type>
+        <extensions>
+            <planned_altitude_after>878</planned_altitude_after>
+        </extensions>
+    </wpt>
+    <wpt lat="39.7071944405315" lon="-0.98649995993445">
+        <ele>546</ele>
+        <name>CLS</name>
+        <desc>CALLES</desc>
+        <type>VOR DME</type>
+    </wpt>
+    <wpt lat="39.8227778006844" lon="-0.231944486659588">
+        <ele>121</ele>
+        <name>VAL D’UXÓ (LA)</name>
+        <desc>LEVC</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="39.9727777432502" lon="0.0172222147518002">
+        <ele>0</ele>
+        <name>CASTELLÓN</name>
+        <desc>LEVC</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="39.999706965989" lon="0.0263881138274549">
+        <ele>5</ele>
+        <name>LECN</name>
+        <desc>Castellon de la Plana</desc>
+        <type>Airport</type>
+        <extensions/>
+    </wpt>
+    <wpt lat="40.0726754642352" lon="0.140782758593559">
+        <ele>0</ele>
+        <name>WP006</name>
+        <desc>WP006</desc>
+        <type>Unknown Type</type>
+        <extensions>
+            <planned_altitude>609.6</planned_altitude>
+        </extensions>
+    </wpt>
+    <wpt lat="40.4716666821964" lon="0.476111069329935">
+        <ele>11</ele>
+        <name>E</name>
+        <desc>LEVN</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="40.5277368176873" lon="0.720214009284973">
+        <ele>0</ele>
+        <name>WP008</name>
+        <desc>WP008</desc>
+        <type>Unknown Type</type>
+        <extensions>
+            <planned_altitude>609.6</planned_altitude>
+        </extensions>
+    </wpt>
+    <wpt lat="40.7335099268123" lon="0.952421247959137">
+        <ele>0</ele>
+        <name>WP009</name>
+        <desc>WP009</desc>
+        <type>Unknown Type</type>
+        <extensions>
+            <planned_altitude>609.6</planned_altitude>
+        </extensions>
+    </wpt>
+    <wpt lat="41.0069444220112" lon="0.920833300978724">
+        <ele>46</ele>
+        <name>S</name>
+        <desc>LERS</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="41.1794444396263" lon="1.46388888393213">
+        <ele>28</ele>
+        <name>E</name>
+        <desc>LERS</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="41.34547" lon="1.700318">
+        <ele>233</ele>
+        <name>Vilafranca del Penedès</name>
+        <desc>VILAFRANCA DEL PENEDèS</desc>
+        <type>Unknown Type</type>
+    </wpt>
+    <wpt lat="41.502222244601" lon="2.01249998345075">
+        <ele>184</ele>
+        <name>W</name>
+        <desc>LELL</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="41.5549999807676" lon="2.18888886379347">
+        <ele>121</ele>
+        <name>E</name>
+        <desc>LELL</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="41.54374" lon="2.438119">
+        <ele>55</ele>
+        <name>Mataró</name>
+        <desc>MATARó</desc>
+        <type>Unknown Type</type>
+    </wpt>
+    <wpt lat="41.7230555552163" lon="2.93166668234412">
+        <ele>13</ele>
+        <name>SE</name>
+        <desc>LEGE</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="41.9476944475861" lon="3.20908332795101">
+        <ele>307</ele>
+        <name>BGR</name>
+        <desc>BAGUR</desc>
+        <type>VOR DME</type>
+    </wpt>
+    <wpt lat="42.29145" lon="3.278311">
+        <ele>28</ele>
+        <name>Cadaqués</name>
+        <desc>CADAQUéS</desc>
+        <type>Unknown Type</type>
+    </wpt>
+    <wpt lat="42.4311110957235" lon="3.20083335431927">
+        <ele>0</ele>
+        <name>PORBU</name>
+        <desc>PORBU</desc>
+        <type>Significant point</type>
+    </wpt>
+    <wpt lat="42.6197221928579" lon="3.03916670696526">
+        <ele>1</ele>
+        <name>SC</name>
+        <desc>LFMP</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="42.778888912088" lon="3.0386110789098">
+        <ele>0</ele>
+        <name>E</name>
+        <desc>LFMP</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="42.9102777678583" lon="3.05583336657905">
+        <ele>48</ele>
+        <name>NL</name>
+        <desc>LFMP</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="43.1749999827341" lon="2.7327777686106">
+        <ele>62</ele>
+        <name>LFMZ</name>
+        <desc>LFMZ</desc>
+        <type>Significant point</type>
+    </wpt>
+    <wpt lat="43.1555555564597" lon="2.30583333544667">
+        <ele>134</ele>
+        <name>SF</name>
+        <desc>LFMK</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="43.19027780046" lon="2.14194443215862">
+        <ele>228</ele>
+        <name>WM</name>
+        <desc>LFMK</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="43.39974" lon="1.718015">
+        <ele>183</ele>
+        <name>Villefranche-de-Lauragais</name>
+        <desc>VILLEFRANCHE-DE-LAURAGAIS</desc>
+        <type>Unknown Type</type>
+    </wpt>
+    <wpt lat="43.4833333031115" lon="1.6666666574002">
+        <ele>242</ele>
+        <name>SL</name>
+        <desc>LFBO</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="43.5877777722572" lon="1.49861115796143">
+        <ele>139</ele>
+        <name>LFCL</name>
+        <desc>LFCL</desc>
+        <type>Significant point</type>
+    </wpt>
+    <rte>
+        <name>2022-09-30 Requena - Toulouse Lasbordes Coastline</name>
+        <rtept lat="39.4747222256079" lon="-1.03444449572759">
+            <ele>713</ele>
+            <name>LERE</name>
+            <desc>Requena</desc>
+            <type>Airport</type>
+            <extensions>
+                <planned_altitude_after>878</planned_altitude_after>
+            </extensions>
+        </rtept>
+        <rtept lat="39.7071944405315" lon="-0.98649995993445">
+            <ele>546</ele>
+            <name>CLS</name>
+            <desc>CALLES</desc>
+            <type>VOR DME</type>
+        </rtept>
+        <rtept lat="39.8227778006844" lon="-0.231944486659588">
+            <ele>121</ele>
+            <name>VAL D’UXÓ (LA)</name>
+            <desc>LEVC</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="39.9727777432502" lon="0.0172222147518002">
+            <ele>0</ele>
+            <name>CASTELLÓN</name>
+            <desc>LEVC</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="39.999706965989" lon="0.0263881138274549">
+            <ele>5</ele>
+            <name>LECN</name>
+            <desc>Castellon de la Plana</desc>
+            <type>Airport</type>
+            <extensions/>
+        </rtept>
+        <rtept lat="40.0726754642352" lon="0.140782758593559">
+            <ele>0</ele>
+            <name>WP006</name>
+            <desc>WP006</desc>
+            <type>Unknown Type</type>
+            <extensions>
+                <planned_altitude>609.6</planned_altitude>
+            </extensions>
+        </rtept>
+        <rtept lat="40.4716666821964" lon="0.476111069329935">
+            <ele>11</ele>
+            <name>E</name>
+            <desc>LEVN</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="40.5277368176873" lon="0.720214009284973">
+            <ele>0</ele>
+            <name>WP008</name>
+            <desc>WP008</desc>
+            <type>Unknown Type</type>
+            <extensions>
+                <planned_altitude>609.6</planned_altitude>
+            </extensions>
+        </rtept>
+        <rtept lat="40.7335099268123" lon="0.952421247959137">
+            <ele>0</ele>
+            <name>WP009</name>
+            <desc>WP009</desc>
+            <type>Unknown Type</type>
+            <extensions>
+                <planned_altitude>609.6</planned_altitude>
+            </extensions>
+        </rtept>
+        <rtept lat="41.0069444220112" lon="0.920833300978724">
+            <ele>46</ele>
+            <name>S</name>
+            <desc>LERS</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="41.1794444396263" lon="1.46388888393213">
+            <ele>28</ele>
+            <name>E</name>
+            <desc>LERS</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="41.34547" lon="1.700318">
+            <ele>233</ele>
+            <name>Vilafranca del Penedès</name>
+            <desc>VILAFRANCA DEL PENEDèS</desc>
+            <type>Unknown Type</type>
+        </rtept>
+        <rtept lat="41.502222244601" lon="2.01249998345075">
+            <ele>184</ele>
+            <name>W</name>
+            <desc>LELL</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="41.5549999807676" lon="2.18888886379347">
+            <ele>121</ele>
+            <name>E</name>
+            <desc>LELL</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="41.54374" lon="2.438119">
+            <ele>55</ele>
+            <name>Mataró</name>
+            <desc>MATARó</desc>
+            <type>Unknown Type</type>
+        </rtept>
+        <rtept lat="41.7230555552163" lon="2.93166668234412">
+            <ele>13</ele>
+            <name>SE</name>
+            <desc>LEGE</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="41.9476944475861" lon="3.20908332795101">
+            <ele>307</ele>
+            <name>BGR</name>
+            <desc>BAGUR</desc>
+            <type>VOR DME</type>
+        </rtept>
+        <rtept lat="42.29145" lon="3.278311">
+            <ele>28</ele>
+            <name>Cadaqués</name>
+            <desc>CADAQUéS</desc>
+            <type>Unknown Type</type>
+        </rtept>
+        <rtept lat="42.4311110957235" lon="3.20083335431927">
+            <ele>0</ele>
+            <name>PORBU</name>
+            <desc>PORBU</desc>
+            <type>Significant point</type>
+        </rtept>
+        <rtept lat="42.6197221928579" lon="3.03916670696526">
+            <ele>1</ele>
+            <name>SC</name>
+            <desc>LFMP</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="42.778888912088" lon="3.0386110789098">
+            <ele>0</ele>
+            <name>E</name>
+            <desc>LFMP</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="42.9102777678583" lon="3.05583336657905">
+            <ele>48</ele>
+            <name>NL</name>
+            <desc>LFMP</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="43.1749999827341" lon="2.7327777686106">
+            <ele>62</ele>
+            <name>LFMZ</name>
+            <desc>LFMZ</desc>
+            <type>Significant point</type>
+        </rtept>
+        <rtept lat="43.1555555564597" lon="2.30583333544667">
+            <ele>134</ele>
+            <name>SF</name>
+            <desc>LFMK</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="43.19027780046" lon="2.14194443215862">
+            <ele>228</ele>
+            <name>WM</name>
+            <desc>LFMK</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="43.39974" lon="1.718015">
+            <ele>183</ele>
+            <name>Villefranche-de-Lauragais</name>
+            <desc>VILLEFRANCHE-DE-LAURAGAIS</desc>
+            <type>Unknown Type</type>
+        </rtept>
+        <rtept lat="43.4833333031115" lon="1.6666666574002">
+            <ele>242</ele>
+            <name>SL</name>
+            <desc>LFBO</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="43.5877777722572" lon="1.49861115796143">
+            <ele>139</ele>
+            <name>LFCL</name>
+            <desc>LFCL</desc>
+            <type>Significant point</type>
+        </rtept>
+    </rte>
+</gpx>

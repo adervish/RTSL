@@ -1,0 +1,6350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>GPS device</name>
+    <snippet>Created Thu Sep 1 18:05:57 2022 GMT</snippet>
+    <LookAt>
+      <longitude>0.000000</longitude>
+      <latitude>29.818793</latitude>
+      <range>4066061.203009</range>
+    </LookAt>
+    <!-- Normal route style -->
+    <Style id="route_n">
+      <IconStyle>
+        <Icon>
+          <href>https://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted route style -->
+    <Style id="route_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="route">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#route_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#route_h</styleUrl>
+      </Pair>
+    </StyleMap>
+    <!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="lineStyle">
+      <LineStyle>
+        <color>99ffac59</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Folder>
+      <name>Waypoints</name>
+      <Placemark>
+        <name>GQPP</name>
+        <description>NOUADHIBOU</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-17.030000,20.933100,3.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>N2 (NOVEMBRE DEUX)</name>
+        <description>GQPP</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-17.008333,21.023333</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>N1 (NOVEMBRE UNITE)</name>
+        <description>GQPP</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-17.055000,21.171667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GREGUIRAT</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-17.016670,21.366670,14.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CAP CARBEIRO</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.965000,21.806390</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BAHIA DE SAN CIPRIANO</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.648330,22.281390,8.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GOLF DE CINTRA</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.122780,22.994720,25.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GMMH</name>
+        <description>Dakhla</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-15.931944,23.718333,11.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GMAT</name>
+        <description>TAN-TAN / Plage Blanche</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-11.161300,28.448200,199.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FOUM EL QUED DRAA</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-11.113890,28.679450,-1.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FOUM ASSAKA</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-10.396110,29.135830,63.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MIRLEFT</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-10.035000,29.580000,56.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RILAT</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-9.665000,30.080833,48.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ARGAB</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-9.777222,30.349444</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOPIR</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-9.890000,30.647500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WP008</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-9.820903,31.265310</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GMMI</name>
+        <description>Essaouira Mogador</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-9.683056,31.399167,128.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GOSS</name>
+        <description>SAINT-LOUIS</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.461056,16.049806,3.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ARBEN</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.361111,16.438611</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TUTAN</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.086083,17.928917</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WP004</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.160640,18.754500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BOTLO</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.427778,19.349722,7.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ERENA</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.667778,19.972222</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SE (SIERRA ECHO)</name>
+        <description>GQPP</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.683333,20.683333</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S1 (SIERRA UNITE)</name>
+        <description>GQPP</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-17.046667,20.771667,5.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S2 (SIERRA DEUX)</name>
+        <description>GQPP</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-17.030000,20.858333</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GQPP</name>
+        <description>NOUADHIBOU</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-17.030000,20.933100,3.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFCL</name>
+        <description>TOULOUSE LASBORDES</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>1.498620,43.587780,140.21</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SL</name>
+        <description>LFBO</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>1.666667,43.483333,242.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NATPI</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>1.235800,42.723900,2389.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UPISA</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>1.235750,41.934944,645.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AMPOL</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>0.639278,40.803556,113.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WP006</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>0.542967,40.711657,88.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>E</name>
+        <description>LEVN</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>0.476111,40.471667,11.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BENJIS</name>
+        <description>LEVC</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>0.000000,39.910000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>N</name>
+        <description>LEVC</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-0.212222,39.656111</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>N-1</name>
+        <description>LEVC</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-0.282778,39.569722,1.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SE-1</name>
+        <description>LEVC</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-0.217222,39.186667,16.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WP012</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>0.198861,38.760880,14.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BENIDORM</name>
+        <description>LEVC</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-0.116944,38.530833</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LEMU</name>
+        <description>Mutxamel</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-0.475286,38.440600,146.91</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GMMI</name>
+        <description>Essaouira Mogador</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-9.683056,31.399167,128.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VILLE DE SAFI</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-9.221111,32.303050,63.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WP003</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-9.305388,32.507619</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BASMA</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-8.515000,33.230833,31.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CBA</name>
+        <description>CASABLANCA / MOHAMED V</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-7.677186,33.521497,108.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GMMT</name>
+        <description>CASABLANCA / TIT MELLIL</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-7.464444,33.593611,101.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOSAD</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-7.331667,33.497500,100.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BAKRA</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-6.894167,33.572500,410.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DONAS</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-6.575000,33.697500,349.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Khemisset</name>
+        <description>KHEMISSET</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-6.066270,33.824040,451.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BGE EL KANSERA</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-5.905278,33.942500,121.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MOULAY IDRISS</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-5.532959,34.059080,431.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BGE SIDI CHAHED</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-5.337389,34.077630,196.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AIN TAOUJDATE</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-5.208889,33.939170,467.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GMFF</name>
+        <description>FES SAÏSS</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-4.978000,33.927300,578.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tarfaya / Cap Juby</name>
+        <description>TARFAYA / CAP JUBY</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-12.916940,27.948330</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HASSI ARIAL</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-13.167220,27.677220</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HASSI TAFRAOUT</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-13.276110,27.386390,3.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GMML</name>
+        <description>LAAYOUNE / Hassan 1er</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-13.219167,27.151667,68.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LERE</name>
+        <description>Requena</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-1.034444,39.474722,713.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CLS</name>
+        <description>CALLES</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-0.986500,39.707194,546.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VAL D’UXÓ (LA)</name>
+        <description>LEVC</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-0.231944,39.822778,121.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CASTELLÓN</name>
+        <description>LEVC</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>0.017222,39.972778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LECN</name>
+        <description>Castellon de la Plana</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>0.026388,39.999707,5.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WP006</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>0.140783,40.072675</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>E</name>
+        <description>LEVN</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>0.476111,40.471667,11.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WP008</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>0.720214,40.527737</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WP009</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>0.952421,40.733510</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S</name>
+        <description>LERS</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>0.920833,41.006944,46.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>E</name>
+        <description>LERS</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>1.463889,41.179444,28.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vilafranca del Penedès</name>
+        <description>VILAFRANCA DEL PENEDèS</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>1.700318,41.345470,233.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>W</name>
+        <description>LELL</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>2.012500,41.502222,184.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>E</name>
+        <description>LELL</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>2.188889,41.555000,121.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mataró</name>
+        <description>MATARó</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>2.438119,41.543740,55.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SE</name>
+        <description>LEGE</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>2.931667,41.723056,13.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BGR</name>
+        <description>BAGUR</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>3.209083,41.947694,307.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cadaqués</name>
+        <description>CADAQUéS</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>3.278311,42.291450,28.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PORBU</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>3.200833,42.431111</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SC</name>
+        <description>LFMP</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>3.039167,42.619722,1.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>E</name>
+        <description>LFMP</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>3.038611,42.778889</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NL</name>
+        <description>LFMP</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>3.055833,42.910278,48.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFMZ</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>2.732778,43.175000,62.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SF</name>
+        <description>LFMK</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>2.305833,43.155556,134.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WM</name>
+        <description>LFMK</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>2.141944,43.190278,228.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villefranche-de-Lauragais</name>
+        <description>VILLEFRANCHE-DE-LAURAGAIS</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>1.718015,43.399740,183.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SL</name>
+        <description>LFBO</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>1.666667,43.483333,242.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFCL</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>1.498611,43.587778,139.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GMTN</name>
+        <description>TETOUAN / Saniat R’mel</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-5.320000,35.594444,42.50</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BGE AJRAS</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-5.500212,35.582441,65.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ksar el Kebir</name>
+        <description>KSAR EL KEBIR</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-5.905340,35.001740,18.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IBDIR</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-6.315000,34.522222,10.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TIFLET</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-6.311171,33.893023,344.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BAKRA</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-6.894167,33.572500,410.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOSAD</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-7.331667,33.497500,100.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GMMT</name>
+        <description>CASABLANCA / TIT MELLIL</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-7.464444,33.593611,101.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GMAD</name>
+        <description>AGADIR / Al Massira</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-9.411389,30.322500,77.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VASIR</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-9.540000,30.180833,77.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RILAT</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-9.665000,30.080833,48.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MIRLEFT</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-10.035000,29.580000,56.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GMMF</name>
+        <description>Sidi Ifni Xx Airport</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-10.187800,29.366700,57.91</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WP006</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-10.610280,28.965280,-4.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FOUM EL QUED DRAA</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-11.113890,28.679450,-1.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EMBOUCHURE OUED CHEBEIKA</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-11.537500,28.292780</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FOUM AGOUTIR</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-12.229440,28.048610</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tarfaya</name>
+        <description>TARFAYA</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-12.921840,27.935780,11.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GMMH</name>
+        <description>Dakhla</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-15.931944,23.718333,11.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WP002</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.155624,23.011054</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BAHIA DE SAN CIPRIANO</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.648330,22.281390,8.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CAP CARBEIRO</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.965000,21.806390</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WP005</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.987170,21.376830,12.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>N (NOVEMBRE)</name>
+        <description>GQPP</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.923333,21.161667</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NE (NOVEMBRE ECHO)</name>
+        <description>GQPP</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.935000,21.103333</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>N2 (NOVEMBRE DEUX)</name>
+        <description>GQPP</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-17.008333,21.023333</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GQPP</name>
+        <description>NOUADHIBOU</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-17.030000,20.933100,3.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LEAX</name>
+        <description>La Axarquía-Leoni Benabu</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-4.134606,36.800888,37.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nerja</name>
+        <description>NERJA</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-3.872675,36.754500,60.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OBAKA</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-3.438389,36.640694</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SW</name>
+        <description>LEAM</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.608056,36.746389</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S</name>
+        <description>LEAM</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.184167,36.726944,235.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NERKU</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-1.461000,37.441500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S</name>
+        <description>LELC</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-0.930000,37.542500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S-1</name>
+        <description>LELC</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-0.675278,37.614722</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>N</name>
+        <description>LELC</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-0.646389,37.987778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MAGAL</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-0.230722,38.073306</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MITOS</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-0.013722,38.449444</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WP012</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>0.241045,38.739510</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SERRA</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-0.856833,39.266000,666.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LERE</name>
+        <description>Requena</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-1.034444,39.474722,713.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GQPP</name>
+        <description>NOUADHIBOU</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-17.030000,20.933100,3.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>E (ECHO)</name>
+        <description>GQPP</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.793333,20.928333,-2.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SE (SIERRA ECHO)</name>
+        <description>GQPP</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.683333,20.683333</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ERENA</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.667778,19.972222</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BOTLO</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.427778,19.349722,7.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WP006</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.160640,18.754500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TUTAN</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.086083,17.928917</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ARBEN</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.361111,16.438611</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GOSS</name>
+        <description>SAINT-LOUIS</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-16.461056,16.049806,3.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LEMU</name>
+        <description>Mutxamel</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-0.475286,38.440600,146.91</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NE</name>
+        <description>LEAL</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-0.407778,38.361944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WP003</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-0.447236,38.166750</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OSVAN</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-0.563417,38.116722</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>N</name>
+        <description>LELC</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-0.646389,37.987778</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S-1</name>
+        <description>LELC</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-0.675278,37.614722</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S</name>
+        <description>LELC</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-0.930000,37.542500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NERKU</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-1.461000,37.441500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RIXAL</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.017833,36.784472</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S</name>
+        <description>LEAM</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.184167,36.726944,235.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OBAKA</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-3.438389,36.640694</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WP012</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-3.837736,36.727440</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PISAV</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-4.108889,36.586083</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ETROV</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-4.350833,36.380528</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MABEL</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-4.672139,36.206944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GALTO</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-5.143611,35.833333</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GMTN</name>
+        <description>TETOUAN / Saniat R’mel</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-5.320000,35.594444,42.50</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GMML</name>
+        <description>LAAYOUNE / Hassan 1er</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-13.219167,27.151667,68.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HASSI TAFRAOUT</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-13.276110,27.386390,3.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HASSI ARIAL</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-13.167220,27.677220</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TARFAYA</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-12.921940,27.935830,11.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FOUM AGOUTIR</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-12.229440,28.048610</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EMBOUCHURE OUED CHEBEIKA</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-11.537500,28.292780</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GMAT</name>
+        <description>TAN-TAN / Plage Blanche</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-11.161300,28.448200,199.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LEAX</name>
+        <description>La Axarquía-Leoni Benabu</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-4.134606,36.800888,37.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S</name>
+        <description>LEGR</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-4.024444,37.033333,991.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>W</name>
+        <description>LEGR</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-3.895556,37.305000,953.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WP004</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-3.495150,37.309660,1686.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WP005</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-3.361931,37.469960,1080.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>YES</name>
+        <description>YESTE</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-2.352500,38.360833,1417.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S</name>
+        <description>LEAB</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-1.558056,38.826667,865.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LE142</name>
+        <description>Carcelen</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-1.261617,39.133050,830.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LERE</name>
+        <description>Requena</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-1.034444,39.474722,713.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GMFF</name>
+        <description>FES SAÏSS</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-4.978000,33.927300,578.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BGE SIDI CHAHED</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-5.337389,34.077630,196.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JORF EL MELHA</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-5.511944,34.497780,78.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OUEZZANE</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-5.580935,34.798020,298.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BGE AJRAS</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-5.500212,35.582441,65.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GALTO</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-5.143611,35.833333</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MABEL</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-4.672139,36.206944</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ETROV</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-4.350833,36.380528</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PISAV</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-4.108889,36.586083</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LEAX</name>
+        <description>La Axarquía-Leoni Benabu</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-4.134606,36.800888,37.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GMMT</name>
+        <description>CASABLANCA / TIT MELLIL</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-7.464444,33.593611,101.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WP002</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-7.658750,33.735160</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BASMA</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-8.515000,33.230833,31.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WP004</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-9.277253,32.558597</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GMMS</name>
+        <description>Safi Airport</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-9.233300,32.283300,52.12</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>WP006</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-9.849561,31.387182</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOPIR</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-9.890000,30.647500</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ARGAB</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-9.777222,30.349444</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GMAD</name>
+        <description>AGADIR / Al Massira</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-9.411389,30.322500,77.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GMML</name>
+        <description>LAAYOUNE / Hassan 1er</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-13.219167,27.151667,68.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FOUM AL WAD</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-13.380000,27.171110,10.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laayoune Plage</name>
+        <description>LAAYOUNE PLAGE</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-13.415830,27.096110,4.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GIRAL</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-13.546389,26.740556,46.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LESMID</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-13.850000,26.541940,41.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BOUJDOUR</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-14.485000,26.123610,30.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GOUERT AIT CANAUIN</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-14.687780,25.579440</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POINTE DE JAUN TORNO</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-14.810830,25.325830,43.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HASSI CRAA</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-14.890000,24.747780</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SKAYMAT</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-15.098330,24.531110</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HASSI LABYAD</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-15.665000,23.981390,40.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GMMH</name>
+        <description>Dakhla</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-15.931944,23.718333,11.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GSVO</name>
+        <description>VILLACISNEROS</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-15.931815,23.718511,10.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HASSI LABYAD</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-15.665000,23.981390,34.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SKAYMAT</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-15.098330,24.531110</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HASSI CRAA</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-14.890000,24.747780</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POINTE DE JAUN TORNO</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-14.810830,25.325830,15.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GOUERT AIT CANAUIN</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-14.687780,25.579440,3.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BOUJDOUR</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-14.485000,26.123610,26.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LESMID</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-13.850000,26.541940,43.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GIRAL</name>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-13.546389,26.740556,46.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laayoune Plage</name>
+        <description>LAAYOUNE PLAGE</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-13.415830,27.096110,3.00</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GMML</name>
+        <description>LAAYOUNE / Hassan 1er</description>
+        <styleUrl>#waypoint</styleUrl>
+        <Point>
+          <coordinates>-13.219167,27.151667,68.00</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Routes</name>
+      <Folder>
+        <name>2022-09-24 Nouadhibou - Dakhla</name>
+        <Folder>
+          <name>Points</name>
+          <Placemark>
+            <name>GQPP</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -17.030000 </td></tr>
+<tr><td>Latitude: 20.933100 </td></tr>
+<tr><td>Altitude: 9.843 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-17.030000</longitude>
+              <latitude>20.933100</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-17.030000,20.933100,3.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>N2 (NOVEMBRE DEUX)</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -17.008333 </td></tr>
+<tr><td>Latitude: 21.023333 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-17.008333</longitude>
+              <latitude>21.023333</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-17.008333,21.023333</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>N1 (NOVEMBRE UNITE)</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -17.055000 </td></tr>
+<tr><td>Latitude: 21.171667 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-17.055000</longitude>
+              <latitude>21.171667</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-17.055000,21.171667</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GREGUIRAT</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -17.016670 </td></tr>
+<tr><td>Latitude: 21.366670 </td></tr>
+<tr><td>Altitude: 45.932 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-17.016670</longitude>
+              <latitude>21.366670</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-17.016670,21.366670,14.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>CAP CARBEIRO</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.965000 </td></tr>
+<tr><td>Latitude: 21.806390 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.965000</longitude>
+              <latitude>21.806390</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.965000,21.806390</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>BAHIA DE SAN CIPRIANO</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.648330 </td></tr>
+<tr><td>Latitude: 22.281390 </td></tr>
+<tr><td>Altitude: 26.247 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.648330</longitude>
+              <latitude>22.281390</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.648330,22.281390,8.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GOLF DE CINTRA</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.122780 </td></tr>
+<tr><td>Latitude: 22.994720 </td></tr>
+<tr><td>Altitude: 82.021 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.122780</longitude>
+              <latitude>22.994720</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.122780,22.994720,25.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GMMH</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -15.931944 </td></tr>
+<tr><td>Latitude: 23.718333 </td></tr>
+<tr><td>Altitude: 36.089 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-15.931944</longitude>
+              <latitude>23.718333</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-15.931944,23.718333,11.00</coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+-17.030000,20.933100,3.00
+-17.008333,21.023333
+-17.055000,21.171667
+-17.016670,21.366670,14.00
+-16.965000,21.806390
+-16.648330,22.281390,8.00
+-16.122780,22.994720,25.00
+-15.931944,23.718333,11.00
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>2022-09-26 TAN-TAN  Plage Blanche - Essaouira Mogador</name>
+        <Folder>
+          <name>Points</name>
+          <Placemark>
+            <name>GMAT</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -11.161300 </td></tr>
+<tr><td>Latitude: 28.448200 </td></tr>
+<tr><td>Altitude: 652.887 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-11.161300</longitude>
+              <latitude>28.448200</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-11.161300,28.448200,199.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>FOUM EL QUED DRAA</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -11.113890 </td></tr>
+<tr><td>Latitude: 28.679450 </td></tr>
+<tr><td>Altitude: -3.281 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-11.113890</longitude>
+              <latitude>28.679450</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-11.113890,28.679450,-1.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>FOUM ASSAKA</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -10.396110 </td></tr>
+<tr><td>Latitude: 29.135830 </td></tr>
+<tr><td>Altitude: 206.693 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-10.396110</longitude>
+              <latitude>29.135830</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-10.396110,29.135830,63.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>MIRLEFT</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -10.035000 </td></tr>
+<tr><td>Latitude: 29.580000 </td></tr>
+<tr><td>Altitude: 183.727 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-10.035000</longitude>
+              <latitude>29.580000</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-10.035000,29.580000,56.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>RILAT</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -9.665000 </td></tr>
+<tr><td>Latitude: 30.080833 </td></tr>
+<tr><td>Altitude: 157.480 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-9.665000</longitude>
+              <latitude>30.080833</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-9.665000,30.080833,48.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ARGAB</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -9.777222 </td></tr>
+<tr><td>Latitude: 30.349444 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-9.777222</longitude>
+              <latitude>30.349444</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-9.777222,30.349444</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>KOPIR</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -9.890000 </td></tr>
+<tr><td>Latitude: 30.647500 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-9.890000</longitude>
+              <latitude>30.647500</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-9.890000,30.647500</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>WP008</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -9.820903 </td></tr>
+<tr><td>Latitude: 31.265310 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-9.820903</longitude>
+              <latitude>31.265310</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-9.820903,31.265310</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GMMI</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -9.683056 </td></tr>
+<tr><td>Latitude: 31.399167 </td></tr>
+<tr><td>Altitude: 419.948 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-9.683056</longitude>
+              <latitude>31.399167</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-9.683056,31.399167,128.00</coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+-11.161300,28.448200,199.00
+-11.113890,28.679450,-1.00
+-10.396110,29.135830,63.00
+-10.035000,29.580000,56.00
+-9.665000,30.080833,48.00
+-9.777222,30.349444
+-9.890000,30.647500
+-9.820903,31.265310
+-9.683056,31.399167,128.00
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>2022-09-24 Saint-Louis Nouadhibou</name>
+        <Folder>
+          <name>Points</name>
+          <Placemark>
+            <name>GOSS</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.461056 </td></tr>
+<tr><td>Latitude: 16.049806 </td></tr>
+<tr><td>Altitude: 9.843 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.461056</longitude>
+              <latitude>16.049806</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.461056,16.049806,3.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ARBEN</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.361111 </td></tr>
+<tr><td>Latitude: 16.438611 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.361111</longitude>
+              <latitude>16.438611</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.361111,16.438611</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>TUTAN</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.086083 </td></tr>
+<tr><td>Latitude: 17.928917 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.086083</longitude>
+              <latitude>17.928917</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.086083,17.928917</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>WP004</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.160640 </td></tr>
+<tr><td>Latitude: 18.754500 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.160640</longitude>
+              <latitude>18.754500</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.160640,18.754500</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>BOTLO</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.427778 </td></tr>
+<tr><td>Latitude: 19.349722 </td></tr>
+<tr><td>Altitude: 22.966 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.427778</longitude>
+              <latitude>19.349722</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.427778,19.349722,7.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ERENA</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.667778 </td></tr>
+<tr><td>Latitude: 19.972222 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.667778</longitude>
+              <latitude>19.972222</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.667778,19.972222</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>SE (SIERRA ECHO)</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.683333 </td></tr>
+<tr><td>Latitude: 20.683333 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.683333</longitude>
+              <latitude>20.683333</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.683333,20.683333</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>S1 (SIERRA UNITE)</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -17.046667 </td></tr>
+<tr><td>Latitude: 20.771667 </td></tr>
+<tr><td>Altitude: 16.404 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-17.046667</longitude>
+              <latitude>20.771667</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-17.046667,20.771667,5.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>S2 (SIERRA DEUX)</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -17.030000 </td></tr>
+<tr><td>Latitude: 20.858333 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-17.030000</longitude>
+              <latitude>20.858333</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-17.030000,20.858333</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GQPP</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -17.030000 </td></tr>
+<tr><td>Latitude: 20.933100 </td></tr>
+<tr><td>Altitude: 9.843 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-17.030000</longitude>
+              <latitude>20.933100</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-17.030000,20.933100,3.00</coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+-16.461056,16.049806,3.00
+-16.361111,16.438611
+-16.086083,17.928917
+-16.160640,18.754500
+-16.427778,19.349722,7.00
+-16.667778,19.972222
+-16.683333,20.683333
+-17.046667,20.771667,5.00
+-17.030000,20.858333
+-17.030000,20.933100,3.00
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>2022-09-17 Toulouse Lasbordes - Mutxamel</name>
+        <Folder>
+          <name>Points</name>
+          <Placemark>
+            <name>LFCL</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 1.498620 </td></tr>
+<tr><td>Latitude: 43.587780 </td></tr>
+<tr><td>Altitude: 460.000 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>1.498620</longitude>
+              <latitude>43.587780</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>1.498620,43.587780,140.21</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>SL</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 1.666667 </td></tr>
+<tr><td>Latitude: 43.483333 </td></tr>
+<tr><td>Altitude: 793.963 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>1.666667</longitude>
+              <latitude>43.483333</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>1.666667,43.483333,242.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>NATPI</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 1.235800 </td></tr>
+<tr><td>Latitude: 42.723900 </td></tr>
+<tr><td>Altitude: 7837.927 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>1.235800</longitude>
+              <latitude>42.723900</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>1.235800,42.723900,2389.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>UPISA</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 1.235750 </td></tr>
+<tr><td>Latitude: 41.934944 </td></tr>
+<tr><td>Altitude: 2116.142 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>1.235750</longitude>
+              <latitude>41.934944</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>1.235750,41.934944,645.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>AMPOL</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 0.639278 </td></tr>
+<tr><td>Latitude: 40.803556 </td></tr>
+<tr><td>Altitude: 370.735 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>0.639278</longitude>
+              <latitude>40.803556</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>0.639278,40.803556,113.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>WP006</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 0.542967 </td></tr>
+<tr><td>Latitude: 40.711657 </td></tr>
+<tr><td>Altitude: 288.714 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>0.542967</longitude>
+              <latitude>40.711657</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>0.542967,40.711657,88.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>E</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 0.476111 </td></tr>
+<tr><td>Latitude: 40.471667 </td></tr>
+<tr><td>Altitude: 36.089 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>0.476111</longitude>
+              <latitude>40.471667</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>0.476111,40.471667,11.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>BENJIS</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 0.000000 </td></tr>
+<tr><td>Latitude: 39.910000 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>0.000000</longitude>
+              <latitude>39.910000</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>0.000000,39.910000</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>N</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -0.212222 </td></tr>
+<tr><td>Latitude: 39.656111 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-0.212222</longitude>
+              <latitude>39.656111</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-0.212222,39.656111</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>N-1</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -0.282778 </td></tr>
+<tr><td>Latitude: 39.569722 </td></tr>
+<tr><td>Altitude: 3.281 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-0.282778</longitude>
+              <latitude>39.569722</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-0.282778,39.569722,1.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>SE-1</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -0.217222 </td></tr>
+<tr><td>Latitude: 39.186667 </td></tr>
+<tr><td>Altitude: 52.493 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-0.217222</longitude>
+              <latitude>39.186667</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-0.217222,39.186667,16.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>WP012</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 0.198861 </td></tr>
+<tr><td>Latitude: 38.760880 </td></tr>
+<tr><td>Altitude: 45.932 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>0.198861</longitude>
+              <latitude>38.760880</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>0.198861,38.760880,14.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>BENIDORM</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -0.116944 </td></tr>
+<tr><td>Latitude: 38.530833 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-0.116944</longitude>
+              <latitude>38.530833</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-0.116944,38.530833</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>LEMU</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -0.475286 </td></tr>
+<tr><td>Latitude: 38.440600 </td></tr>
+<tr><td>Altitude: 482.000 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-0.475286</longitude>
+              <latitude>38.440600</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-0.475286,38.440600,146.91</coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+1.498620,43.587780,140.21
+1.666667,43.483333,242.00
+1.235800,42.723900,2389.00
+1.235750,41.934944,645.00
+0.639278,40.803556,113.00
+0.542967,40.711657,88.00
+0.476111,40.471667,11.00
+0.000000,39.910000
+-0.212222,39.656111
+-0.282778,39.569722,1.00
+-0.217222,39.186667,16.00
+0.198861,38.760880,14.00
+-0.116944,38.530833
+-0.475286,38.440600,146.91
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Essaouira - Fes</name>
+        <Folder>
+          <name>Points</name>
+          <Placemark>
+            <name>GMMI</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -9.683056 </td></tr>
+<tr><td>Latitude: 31.399167 </td></tr>
+<tr><td>Altitude: 419.948 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-9.683056</longitude>
+              <latitude>31.399167</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-9.683056,31.399167,128.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>VILLE DE SAFI</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -9.221111 </td></tr>
+<tr><td>Latitude: 32.303050 </td></tr>
+<tr><td>Altitude: 206.693 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-9.221111</longitude>
+              <latitude>32.303050</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-9.221111,32.303050,63.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>WP003</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -9.305388 </td></tr>
+<tr><td>Latitude: 32.507619 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-9.305388</longitude>
+              <latitude>32.507619</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-9.305388,32.507619</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>BASMA</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -8.515000 </td></tr>
+<tr><td>Latitude: 33.230833 </td></tr>
+<tr><td>Altitude: 101.706 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-8.515000</longitude>
+              <latitude>33.230833</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-8.515000,33.230833,31.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>CBA</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -7.677186 </td></tr>
+<tr><td>Latitude: 33.521497 </td></tr>
+<tr><td>Altitude: 354.331 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-7.677186</longitude>
+              <latitude>33.521497</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-7.677186,33.521497,108.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GMMT</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -7.464444 </td></tr>
+<tr><td>Latitude: 33.593611 </td></tr>
+<tr><td>Altitude: 331.365 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-7.464444</longitude>
+              <latitude>33.593611</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-7.464444,33.593611,101.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>KOSAD</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -7.331667 </td></tr>
+<tr><td>Latitude: 33.497500 </td></tr>
+<tr><td>Altitude: 328.084 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-7.331667</longitude>
+              <latitude>33.497500</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-7.331667,33.497500,100.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>BAKRA</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -6.894167 </td></tr>
+<tr><td>Latitude: 33.572500 </td></tr>
+<tr><td>Altitude: 1345.144 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-6.894167</longitude>
+              <latitude>33.572500</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-6.894167,33.572500,410.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>DONAS</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -6.575000 </td></tr>
+<tr><td>Latitude: 33.697500 </td></tr>
+<tr><td>Altitude: 1145.013 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-6.575000</longitude>
+              <latitude>33.697500</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-6.575000,33.697500,349.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>Khemisset</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -6.066270 </td></tr>
+<tr><td>Latitude: 33.824040 </td></tr>
+<tr><td>Altitude: 1479.659 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-6.066270</longitude>
+              <latitude>33.824040</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-6.066270,33.824040,451.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>BGE EL KANSERA</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -5.905278 </td></tr>
+<tr><td>Latitude: 33.942500 </td></tr>
+<tr><td>Altitude: 396.982 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-5.905278</longitude>
+              <latitude>33.942500</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-5.905278,33.942500,121.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>MOULAY IDRISS</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -5.532959 </td></tr>
+<tr><td>Latitude: 34.059080 </td></tr>
+<tr><td>Altitude: 1414.042 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-5.532959</longitude>
+              <latitude>34.059080</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-5.532959,34.059080,431.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>BGE SIDI CHAHED</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -5.337389 </td></tr>
+<tr><td>Latitude: 34.077630 </td></tr>
+<tr><td>Altitude: 643.045 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-5.337389</longitude>
+              <latitude>34.077630</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-5.337389,34.077630,196.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>AIN TAOUJDATE</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -5.208889 </td></tr>
+<tr><td>Latitude: 33.939170 </td></tr>
+<tr><td>Altitude: 1532.152 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-5.208889</longitude>
+              <latitude>33.939170</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-5.208889,33.939170,467.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GMFF</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -4.978000 </td></tr>
+<tr><td>Latitude: 33.927300 </td></tr>
+<tr><td>Altitude: 1896.325 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-4.978000</longitude>
+              <latitude>33.927300</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-4.978000,33.927300,578.00</coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+-9.683056,31.399167,128.00
+-9.221111,32.303050,63.00
+-9.305388,32.507619
+-8.515000,33.230833,31.00
+-7.677186,33.521497,108.00
+-7.464444,33.593611,101.00
+-7.331667,33.497500,100.00
+-6.894167,33.572500,410.00
+-6.575000,33.697500,349.00
+-6.066270,33.824040,451.00
+-5.905278,33.942500,121.00
+-5.532959,34.059080,431.00
+-5.337389,34.077630,196.00
+-5.208889,33.939170,467.00
+-4.978000,33.927300,578.00
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>2022-09-21 Cap Juby Tarfaya - LAAYOUNE  Hassan 1er</name>
+        <Folder>
+          <name>Points</name>
+          <Placemark>
+            <name>Tarfaya / Cap Juby</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -12.916940 </td></tr>
+<tr><td>Latitude: 27.948330 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-12.916940</longitude>
+              <latitude>27.948330</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-12.916940,27.948330</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>HASSI ARIAL</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -13.167220 </td></tr>
+<tr><td>Latitude: 27.677220 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-13.167220</longitude>
+              <latitude>27.677220</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-13.167220,27.677220</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>HASSI TAFRAOUT</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -13.276110 </td></tr>
+<tr><td>Latitude: 27.386390 </td></tr>
+<tr><td>Altitude: 9.843 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-13.276110</longitude>
+              <latitude>27.386390</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-13.276110,27.386390,3.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GMML</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -13.219167 </td></tr>
+<tr><td>Latitude: 27.151667 </td></tr>
+<tr><td>Altitude: 223.097 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-13.219167</longitude>
+              <latitude>27.151667</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-13.219167,27.151667,68.00</coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+-12.916940,27.948330
+-13.167220,27.677220
+-13.276110,27.386390,3.00
+-13.219167,27.151667,68.00
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>2022-09-30 Requena - Toulouse Lasbordes Coastline</name>
+        <Folder>
+          <name>Points</name>
+          <Placemark>
+            <name>LERE</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -1.034444 </td></tr>
+<tr><td>Latitude: 39.474722 </td></tr>
+<tr><td>Altitude: 2339.239 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-1.034444</longitude>
+              <latitude>39.474722</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-1.034444,39.474722,713.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>CLS</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -0.986500 </td></tr>
+<tr><td>Latitude: 39.707194 </td></tr>
+<tr><td>Altitude: 1791.339 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-0.986500</longitude>
+              <latitude>39.707194</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-0.986500,39.707194,546.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>VAL D’UXÓ (LA)</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -0.231944 </td></tr>
+<tr><td>Latitude: 39.822778 </td></tr>
+<tr><td>Altitude: 396.982 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-0.231944</longitude>
+              <latitude>39.822778</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-0.231944,39.822778,121.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>CASTELLÓN</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 0.017222 </td></tr>
+<tr><td>Latitude: 39.972778 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>0.017222</longitude>
+              <latitude>39.972778</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>0.017222,39.972778</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>LECN</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 0.026388 </td></tr>
+<tr><td>Latitude: 39.999707 </td></tr>
+<tr><td>Altitude: 16.404 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>0.026388</longitude>
+              <latitude>39.999707</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>0.026388,39.999707,5.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>WP006</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 0.140783 </td></tr>
+<tr><td>Latitude: 40.072675 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>0.140783</longitude>
+              <latitude>40.072675</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>0.140783,40.072675</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>E</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 0.476111 </td></tr>
+<tr><td>Latitude: 40.471667 </td></tr>
+<tr><td>Altitude: 36.089 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>0.476111</longitude>
+              <latitude>40.471667</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>0.476111,40.471667,11.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>WP008</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 0.720214 </td></tr>
+<tr><td>Latitude: 40.527737 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>0.720214</longitude>
+              <latitude>40.527737</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>0.720214,40.527737</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>WP009</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 0.952421 </td></tr>
+<tr><td>Latitude: 40.733510 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>0.952421</longitude>
+              <latitude>40.733510</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>0.952421,40.733510</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>S</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 0.920833 </td></tr>
+<tr><td>Latitude: 41.006944 </td></tr>
+<tr><td>Altitude: 150.919 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>0.920833</longitude>
+              <latitude>41.006944</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>0.920833,41.006944,46.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>E</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 1.463889 </td></tr>
+<tr><td>Latitude: 41.179444 </td></tr>
+<tr><td>Altitude: 91.864 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>1.463889</longitude>
+              <latitude>41.179444</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>1.463889,41.179444,28.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>Vilafranca del Penedès</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 1.700318 </td></tr>
+<tr><td>Latitude: 41.345470 </td></tr>
+<tr><td>Altitude: 764.436 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>1.700318</longitude>
+              <latitude>41.345470</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>1.700318,41.345470,233.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>W</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 2.012500 </td></tr>
+<tr><td>Latitude: 41.502222 </td></tr>
+<tr><td>Altitude: 603.675 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>2.012500</longitude>
+              <latitude>41.502222</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>2.012500,41.502222,184.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>E</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 2.188889 </td></tr>
+<tr><td>Latitude: 41.555000 </td></tr>
+<tr><td>Altitude: 396.982 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>2.188889</longitude>
+              <latitude>41.555000</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>2.188889,41.555000,121.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>Mataró</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 2.438119 </td></tr>
+<tr><td>Latitude: 41.543740 </td></tr>
+<tr><td>Altitude: 180.446 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>2.438119</longitude>
+              <latitude>41.543740</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>2.438119,41.543740,55.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>SE</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 2.931667 </td></tr>
+<tr><td>Latitude: 41.723056 </td></tr>
+<tr><td>Altitude: 42.651 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>2.931667</longitude>
+              <latitude>41.723056</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>2.931667,41.723056,13.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>BGR</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 3.209083 </td></tr>
+<tr><td>Latitude: 41.947694 </td></tr>
+<tr><td>Altitude: 1007.218 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>3.209083</longitude>
+              <latitude>41.947694</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>3.209083,41.947694,307.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>Cadaqués</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 3.278311 </td></tr>
+<tr><td>Latitude: 42.291450 </td></tr>
+<tr><td>Altitude: 91.864 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>3.278311</longitude>
+              <latitude>42.291450</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>3.278311,42.291450,28.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>PORBU</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 3.200833 </td></tr>
+<tr><td>Latitude: 42.431111 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>3.200833</longitude>
+              <latitude>42.431111</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>3.200833,42.431111</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>SC</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 3.039167 </td></tr>
+<tr><td>Latitude: 42.619722 </td></tr>
+<tr><td>Altitude: 3.281 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>3.039167</longitude>
+              <latitude>42.619722</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>3.039167,42.619722,1.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>E</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 3.038611 </td></tr>
+<tr><td>Latitude: 42.778889 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>3.038611</longitude>
+              <latitude>42.778889</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>3.038611,42.778889</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>NL</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 3.055833 </td></tr>
+<tr><td>Latitude: 42.910278 </td></tr>
+<tr><td>Altitude: 157.480 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>3.055833</longitude>
+              <latitude>42.910278</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>3.055833,42.910278,48.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>LFMZ</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 2.732778 </td></tr>
+<tr><td>Latitude: 43.175000 </td></tr>
+<tr><td>Altitude: 203.412 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>2.732778</longitude>
+              <latitude>43.175000</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>2.732778,43.175000,62.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>SF</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 2.305833 </td></tr>
+<tr><td>Latitude: 43.155556 </td></tr>
+<tr><td>Altitude: 439.633 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>2.305833</longitude>
+              <latitude>43.155556</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>2.305833,43.155556,134.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>WM</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 2.141944 </td></tr>
+<tr><td>Latitude: 43.190278 </td></tr>
+<tr><td>Altitude: 748.031 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>2.141944</longitude>
+              <latitude>43.190278</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>2.141944,43.190278,228.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>Villefranche-de-Lauragais</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 1.718015 </td></tr>
+<tr><td>Latitude: 43.399740 </td></tr>
+<tr><td>Altitude: 600.394 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>1.718015</longitude>
+              <latitude>43.399740</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>1.718015,43.399740,183.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>SL</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 1.666667 </td></tr>
+<tr><td>Latitude: 43.483333 </td></tr>
+<tr><td>Altitude: 793.963 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>1.666667</longitude>
+              <latitude>43.483333</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>1.666667,43.483333,242.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>LFCL</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 1.498611 </td></tr>
+<tr><td>Latitude: 43.587778 </td></tr>
+<tr><td>Altitude: 456.037 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>1.498611</longitude>
+              <latitude>43.587778</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>1.498611,43.587778,139.00</coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+-1.034444,39.474722,713.00
+-0.986500,39.707194,546.00
+-0.231944,39.822778,121.00
+0.017222,39.972778
+0.026388,39.999707,5.00
+0.140783,40.072675
+0.476111,40.471667,11.00
+0.720214,40.527737
+0.952421,40.733510
+0.920833,41.006944,46.00
+1.463889,41.179444,28.00
+1.700318,41.345470,233.00
+2.012500,41.502222,184.00
+2.188889,41.555000,121.00
+2.438119,41.543740,55.00
+2.931667,41.723056,13.00
+3.209083,41.947694,307.00
+3.278311,42.291450,28.00
+3.200833,42.431111
+3.039167,42.619722,1.00
+3.038611,42.778889
+3.055833,42.910278,48.00
+2.732778,43.175000,62.00
+2.305833,43.155556,134.00
+2.141944,43.190278,228.00
+1.718015,43.399740,183.00
+1.666667,43.483333,242.00
+1.498611,43.587778,139.00
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>TETOUAN  Saniat R’mel - Casablanca Tit Mellil</name>
+        <Folder>
+          <name>Points</name>
+          <Placemark>
+            <name>GMTN</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -5.320000 </td></tr>
+<tr><td>Latitude: 35.594444 </td></tr>
+<tr><td>Altitude: 139.436 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-5.320000</longitude>
+              <latitude>35.594444</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-5.320000,35.594444,42.50</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>BGE AJRAS</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -5.500212 </td></tr>
+<tr><td>Latitude: 35.582441 </td></tr>
+<tr><td>Altitude: 213.255 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-5.500212</longitude>
+              <latitude>35.582441</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-5.500212,35.582441,65.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>Ksar el Kebir</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -5.905340 </td></tr>
+<tr><td>Latitude: 35.001740 </td></tr>
+<tr><td>Altitude: 59.055 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-5.905340</longitude>
+              <latitude>35.001740</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-5.905340,35.001740,18.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>IBDIR</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -6.315000 </td></tr>
+<tr><td>Latitude: 34.522222 </td></tr>
+<tr><td>Altitude: 32.808 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-6.315000</longitude>
+              <latitude>34.522222</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-6.315000,34.522222,10.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>TIFLET</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -6.311171 </td></tr>
+<tr><td>Latitude: 33.893023 </td></tr>
+<tr><td>Altitude: 1128.609 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-6.311171</longitude>
+              <latitude>33.893023</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-6.311171,33.893023,344.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>BAKRA</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -6.894167 </td></tr>
+<tr><td>Latitude: 33.572500 </td></tr>
+<tr><td>Altitude: 1345.144 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-6.894167</longitude>
+              <latitude>33.572500</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-6.894167,33.572500,410.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>KOSAD</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -7.331667 </td></tr>
+<tr><td>Latitude: 33.497500 </td></tr>
+<tr><td>Altitude: 328.084 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-7.331667</longitude>
+              <latitude>33.497500</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-7.331667,33.497500,100.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GMMT</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -7.464444 </td></tr>
+<tr><td>Latitude: 33.593611 </td></tr>
+<tr><td>Altitude: 331.365 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-7.464444</longitude>
+              <latitude>33.593611</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-7.464444,33.593611,101.00</coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+-5.320000,35.594444,42.50
+-5.500212,35.582441,65.00
+-5.905340,35.001740,18.00
+-6.315000,34.522222,10.00
+-6.311171,33.893023,344.00
+-6.894167,33.572500,410.00
+-7.331667,33.497500,100.00
+-7.464444,33.593611,101.00
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>2022-09-20 AGADIR  Al Massira - Tarfaya</name>
+        <Folder>
+          <name>Points</name>
+          <Placemark>
+            <name>GMAD</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -9.411389 </td></tr>
+<tr><td>Latitude: 30.322500 </td></tr>
+<tr><td>Altitude: 252.625 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-9.411389</longitude>
+              <latitude>30.322500</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-9.411389,30.322500,77.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>VASIR</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -9.540000 </td></tr>
+<tr><td>Latitude: 30.180833 </td></tr>
+<tr><td>Altitude: 252.625 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-9.540000</longitude>
+              <latitude>30.180833</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-9.540000,30.180833,77.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>RILAT</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -9.665000 </td></tr>
+<tr><td>Latitude: 30.080833 </td></tr>
+<tr><td>Altitude: 157.480 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-9.665000</longitude>
+              <latitude>30.080833</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-9.665000,30.080833,48.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>MIRLEFT</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -10.035000 </td></tr>
+<tr><td>Latitude: 29.580000 </td></tr>
+<tr><td>Altitude: 183.727 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-10.035000</longitude>
+              <latitude>29.580000</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-10.035000,29.580000,56.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GMMF</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -10.187800 </td></tr>
+<tr><td>Latitude: 29.366700 </td></tr>
+<tr><td>Altitude: 190.000 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-10.187800</longitude>
+              <latitude>29.366700</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-10.187800,29.366700,57.91</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>WP006</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -10.610280 </td></tr>
+<tr><td>Latitude: 28.965280 </td></tr>
+<tr><td>Altitude: -13.123 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-10.610280</longitude>
+              <latitude>28.965280</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-10.610280,28.965280,-4.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>FOUM EL QUED DRAA</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -11.113890 </td></tr>
+<tr><td>Latitude: 28.679450 </td></tr>
+<tr><td>Altitude: -3.281 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-11.113890</longitude>
+              <latitude>28.679450</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-11.113890,28.679450,-1.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>EMBOUCHURE OUED CHEBEIKA</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -11.537500 </td></tr>
+<tr><td>Latitude: 28.292780 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-11.537500</longitude>
+              <latitude>28.292780</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-11.537500,28.292780</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>FOUM AGOUTIR</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -12.229440 </td></tr>
+<tr><td>Latitude: 28.048610 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-12.229440</longitude>
+              <latitude>28.048610</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-12.229440,28.048610</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>Tarfaya</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -12.921840 </td></tr>
+<tr><td>Latitude: 27.935780 </td></tr>
+<tr><td>Altitude: 36.089 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-12.921840</longitude>
+              <latitude>27.935780</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-12.921840,27.935780,11.00</coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+-9.411389,30.322500,77.00
+-9.540000,30.180833,77.00
+-9.665000,30.080833,48.00
+-10.035000,29.580000,56.00
+-10.187800,29.366700,57.91
+-10.610280,28.965280,-4.00
+-11.113890,28.679450,-1.00
+-11.537500,28.292780
+-12.229440,28.048610
+-12.921840,27.935780,11.00
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>2022-09-22 Dakhla - Nouadhibou-1</name>
+        <Folder>
+          <name>Points</name>
+          <Placemark>
+            <name>GMMH</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -15.931944 </td></tr>
+<tr><td>Latitude: 23.718333 </td></tr>
+<tr><td>Altitude: 36.089 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-15.931944</longitude>
+              <latitude>23.718333</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-15.931944,23.718333,11.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>WP002</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.155624 </td></tr>
+<tr><td>Latitude: 23.011054 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.155624</longitude>
+              <latitude>23.011054</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.155624,23.011054</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>BAHIA DE SAN CIPRIANO</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.648330 </td></tr>
+<tr><td>Latitude: 22.281390 </td></tr>
+<tr><td>Altitude: 26.247 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.648330</longitude>
+              <latitude>22.281390</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.648330,22.281390,8.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>CAP CARBEIRO</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.965000 </td></tr>
+<tr><td>Latitude: 21.806390 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.965000</longitude>
+              <latitude>21.806390</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.965000,21.806390</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>WP005</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.987170 </td></tr>
+<tr><td>Latitude: 21.376830 </td></tr>
+<tr><td>Altitude: 39.370 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.987170</longitude>
+              <latitude>21.376830</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.987170,21.376830,12.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>N (NOVEMBRE)</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.923333 </td></tr>
+<tr><td>Latitude: 21.161667 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.923333</longitude>
+              <latitude>21.161667</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.923333,21.161667</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>NE (NOVEMBRE ECHO)</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.935000 </td></tr>
+<tr><td>Latitude: 21.103333 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.935000</longitude>
+              <latitude>21.103333</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.935000,21.103333</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>N2 (NOVEMBRE DEUX)</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -17.008333 </td></tr>
+<tr><td>Latitude: 21.023333 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-17.008333</longitude>
+              <latitude>21.023333</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-17.008333,21.023333</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GQPP</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -17.030000 </td></tr>
+<tr><td>Latitude: 20.933100 </td></tr>
+<tr><td>Altitude: 9.843 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-17.030000</longitude>
+              <latitude>20.933100</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-17.030000,20.933100,3.00</coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+-15.931944,23.718333,11.00
+-16.155624,23.011054
+-16.648330,22.281390,8.00
+-16.965000,21.806390
+-16.987170,21.376830,12.00
+-16.923333,21.161667
+-16.935000,21.103333
+-17.008333,21.023333
+-17.030000,20.933100,3.00
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>2022-09-29 La Axarquia - Requena Coastline</name>
+        <Folder>
+          <name>Points</name>
+          <Placemark>
+            <name>LEAX</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -4.134606 </td></tr>
+<tr><td>Latitude: 36.800888 </td></tr>
+<tr><td>Altitude: 121.391 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-4.134606</longitude>
+              <latitude>36.800888</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-4.134606,36.800888,37.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>Nerja</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -3.872675 </td></tr>
+<tr><td>Latitude: 36.754500 </td></tr>
+<tr><td>Altitude: 196.850 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-3.872675</longitude>
+              <latitude>36.754500</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-3.872675,36.754500,60.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>OBAKA</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -3.438389 </td></tr>
+<tr><td>Latitude: 36.640694 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-3.438389</longitude>
+              <latitude>36.640694</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-3.438389,36.640694</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>SW</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -2.608056 </td></tr>
+<tr><td>Latitude: 36.746389 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-2.608056</longitude>
+              <latitude>36.746389</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-2.608056,36.746389</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>S</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -2.184167 </td></tr>
+<tr><td>Latitude: 36.726944 </td></tr>
+<tr><td>Altitude: 770.997 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-2.184167</longitude>
+              <latitude>36.726944</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-2.184167,36.726944,235.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>NERKU</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -1.461000 </td></tr>
+<tr><td>Latitude: 37.441500 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-1.461000</longitude>
+              <latitude>37.441500</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-1.461000,37.441500</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>S</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -0.930000 </td></tr>
+<tr><td>Latitude: 37.542500 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-0.930000</longitude>
+              <latitude>37.542500</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-0.930000,37.542500</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>S-1</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -0.675278 </td></tr>
+<tr><td>Latitude: 37.614722 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-0.675278</longitude>
+              <latitude>37.614722</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-0.675278,37.614722</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>N</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -0.646389 </td></tr>
+<tr><td>Latitude: 37.987778 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-0.646389</longitude>
+              <latitude>37.987778</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-0.646389,37.987778</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>MAGAL</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -0.230722 </td></tr>
+<tr><td>Latitude: 38.073306 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-0.230722</longitude>
+              <latitude>38.073306</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-0.230722,38.073306</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>MITOS</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -0.013722 </td></tr>
+<tr><td>Latitude: 38.449444 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-0.013722</longitude>
+              <latitude>38.449444</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-0.013722,38.449444</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>WP012</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: 0.241045 </td></tr>
+<tr><td>Latitude: 38.739510 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>0.241045</longitude>
+              <latitude>38.739510</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>0.241045,38.739510</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>SERRA</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -0.856833 </td></tr>
+<tr><td>Latitude: 39.266000 </td></tr>
+<tr><td>Altitude: 2185.039 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-0.856833</longitude>
+              <latitude>39.266000</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-0.856833,39.266000,666.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>LERE</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -1.034444 </td></tr>
+<tr><td>Latitude: 39.474722 </td></tr>
+<tr><td>Altitude: 2339.239 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-1.034444</longitude>
+              <latitude>39.474722</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-1.034444,39.474722,713.00</coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+-4.134606,36.800888,37.00
+-3.872675,36.754500,60.00
+-3.438389,36.640694
+-2.608056,36.746389
+-2.184167,36.726944,235.00
+-1.461000,37.441500
+-0.930000,37.542500
+-0.675278,37.614722
+-0.646389,37.987778
+-0.230722,38.073306
+-0.013722,38.449444
+0.241045,38.739510
+-0.856833,39.266000,666.00
+-1.034444,39.474722,713.00
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>2022-09-22 NoUADHIBOU - SaINT-LOUIS</name>
+        <Folder>
+          <name>Points</name>
+          <Placemark>
+            <name>GQPP</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -17.030000 </td></tr>
+<tr><td>Latitude: 20.933100 </td></tr>
+<tr><td>Altitude: 9.843 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-17.030000</longitude>
+              <latitude>20.933100</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-17.030000,20.933100,3.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>E (ECHO)</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.793333 </td></tr>
+<tr><td>Latitude: 20.928333 </td></tr>
+<tr><td>Altitude: -6.562 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.793333</longitude>
+              <latitude>20.928333</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.793333,20.928333,-2.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>SE (SIERRA ECHO)</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.683333 </td></tr>
+<tr><td>Latitude: 20.683333 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.683333</longitude>
+              <latitude>20.683333</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.683333,20.683333</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ERENA</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.667778 </td></tr>
+<tr><td>Latitude: 19.972222 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.667778</longitude>
+              <latitude>19.972222</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.667778,19.972222</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>BOTLO</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.427778 </td></tr>
+<tr><td>Latitude: 19.349722 </td></tr>
+<tr><td>Altitude: 22.966 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.427778</longitude>
+              <latitude>19.349722</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.427778,19.349722,7.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>WP006</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.160640 </td></tr>
+<tr><td>Latitude: 18.754500 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.160640</longitude>
+              <latitude>18.754500</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.160640,18.754500</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>TUTAN</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.086083 </td></tr>
+<tr><td>Latitude: 17.928917 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.086083</longitude>
+              <latitude>17.928917</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.086083,17.928917</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ARBEN</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.361111 </td></tr>
+<tr><td>Latitude: 16.438611 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.361111</longitude>
+              <latitude>16.438611</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.361111,16.438611</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GOSS</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -16.461056 </td></tr>
+<tr><td>Latitude: 16.049806 </td></tr>
+<tr><td>Altitude: 9.843 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-16.461056</longitude>
+              <latitude>16.049806</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-16.461056,16.049806,3.00</coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+-17.030000,20.933100,3.00
+-16.793333,20.928333,-2.00
+-16.683333,20.683333
+-16.667778,19.972222
+-16.427778,19.349722,7.00
+-16.160640,18.754500
+-16.086083,17.928917
+-16.361111,16.438611
+-16.461056,16.049806,3.00
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>2022-09-18 Mutxamel - TETOUAN  Saniat R’mel</name>
+        <Folder>
+          <name>Points</name>
+          <Placemark>
+            <name>LEMU</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -0.475286 </td></tr>
+<tr><td>Latitude: 38.440600 </td></tr>
+<tr><td>Altitude: 482.000 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-0.475286</longitude>
+              <latitude>38.440600</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-0.475286,38.440600,146.91</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>NE</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -0.407778 </td></tr>
+<tr><td>Latitude: 38.361944 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-0.407778</longitude>
+              <latitude>38.361944</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-0.407778,38.361944</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>WP003</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -0.447236 </td></tr>
+<tr><td>Latitude: 38.166750 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-0.447236</longitude>
+              <latitude>38.166750</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-0.447236,38.166750</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>OSVAN</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -0.563417 </td></tr>
+<tr><td>Latitude: 38.116722 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-0.563417</longitude>
+              <latitude>38.116722</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-0.563417,38.116722</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>N</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -0.646389 </td></tr>
+<tr><td>Latitude: 37.987778 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-0.646389</longitude>
+              <latitude>37.987778</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-0.646389,37.987778</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>S-1</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -0.675278 </td></tr>
+<tr><td>Latitude: 37.614722 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-0.675278</longitude>
+              <latitude>37.614722</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-0.675278,37.614722</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>S</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -0.930000 </td></tr>
+<tr><td>Latitude: 37.542500 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-0.930000</longitude>
+              <latitude>37.542500</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-0.930000,37.542500</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>NERKU</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -1.461000 </td></tr>
+<tr><td>Latitude: 37.441500 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-1.461000</longitude>
+              <latitude>37.441500</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-1.461000,37.441500</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>RIXAL</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -2.017833 </td></tr>
+<tr><td>Latitude: 36.784472 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-2.017833</longitude>
+              <latitude>36.784472</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-2.017833,36.784472</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>S</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -2.184167 </td></tr>
+<tr><td>Latitude: 36.726944 </td></tr>
+<tr><td>Altitude: 770.997 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-2.184167</longitude>
+              <latitude>36.726944</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-2.184167,36.726944,235.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>OBAKA</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -3.438389 </td></tr>
+<tr><td>Latitude: 36.640694 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-3.438389</longitude>
+              <latitude>36.640694</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-3.438389,36.640694</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>WP012</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -3.837736 </td></tr>
+<tr><td>Latitude: 36.727440 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-3.837736</longitude>
+              <latitude>36.727440</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-3.837736,36.727440</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>PISAV</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -4.108889 </td></tr>
+<tr><td>Latitude: 36.586083 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-4.108889</longitude>
+              <latitude>36.586083</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-4.108889,36.586083</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ETROV</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -4.350833 </td></tr>
+<tr><td>Latitude: 36.380528 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-4.350833</longitude>
+              <latitude>36.380528</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-4.350833,36.380528</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>MABEL</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -4.672139 </td></tr>
+<tr><td>Latitude: 36.206944 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-4.672139</longitude>
+              <latitude>36.206944</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-4.672139,36.206944</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GALTO</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -5.143611 </td></tr>
+<tr><td>Latitude: 35.833333 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-5.143611</longitude>
+              <latitude>35.833333</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-5.143611,35.833333</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GMTN</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -5.320000 </td></tr>
+<tr><td>Latitude: 35.594444 </td></tr>
+<tr><td>Altitude: 139.436 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-5.320000</longitude>
+              <latitude>35.594444</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-5.320000,35.594444,42.50</coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+-0.475286,38.440600,146.91
+-0.407778,38.361944
+-0.447236,38.166750
+-0.563417,38.116722
+-0.646389,37.987778
+-0.675278,37.614722
+-0.930000,37.542500
+-1.461000,37.441500
+-2.017833,36.784472
+-2.184167,36.726944,235.00
+-3.438389,36.640694
+-3.837736,36.727440
+-4.108889,36.586083
+-4.350833,36.380528
+-4.672139,36.206944
+-5.143611,35.833333
+-5.320000,35.594444,42.50
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>2022-09-25 LAAYOUNE - TAN-TAN</name>
+        <Folder>
+          <name>Points</name>
+          <Placemark>
+            <name>GMML</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -13.219167 </td></tr>
+<tr><td>Latitude: 27.151667 </td></tr>
+<tr><td>Altitude: 223.097 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-13.219167</longitude>
+              <latitude>27.151667</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-13.219167,27.151667,68.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>HASSI TAFRAOUT</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -13.276110 </td></tr>
+<tr><td>Latitude: 27.386390 </td></tr>
+<tr><td>Altitude: 9.843 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-13.276110</longitude>
+              <latitude>27.386390</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-13.276110,27.386390,3.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>HASSI ARIAL</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -13.167220 </td></tr>
+<tr><td>Latitude: 27.677220 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-13.167220</longitude>
+              <latitude>27.677220</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-13.167220,27.677220</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>TARFAYA</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -12.921940 </td></tr>
+<tr><td>Latitude: 27.935830 </td></tr>
+<tr><td>Altitude: 36.089 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-12.921940</longitude>
+              <latitude>27.935830</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-12.921940,27.935830,11.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>FOUM AGOUTIR</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -12.229440 </td></tr>
+<tr><td>Latitude: 28.048610 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-12.229440</longitude>
+              <latitude>28.048610</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-12.229440,28.048610</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>EMBOUCHURE OUED CHEBEIKA</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -11.537500 </td></tr>
+<tr><td>Latitude: 28.292780 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-11.537500</longitude>
+              <latitude>28.292780</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-11.537500,28.292780</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GMAT</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -11.161300 </td></tr>
+<tr><td>Latitude: 28.448200 </td></tr>
+<tr><td>Altitude: 652.887 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-11.161300</longitude>
+              <latitude>28.448200</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-11.161300,28.448200,199.00</coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+-13.219167,27.151667,68.00
+-13.276110,27.386390,3.00
+-13.167220,27.677220
+-12.921940,27.935830,11.00
+-12.229440,28.048610
+-11.537500,28.292780
+-11.161300,28.448200,199.00
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>2022-09-29 La Axarquia - Requena</name>
+        <Folder>
+          <name>Points</name>
+          <Placemark>
+            <name>LEAX</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -4.134606 </td></tr>
+<tr><td>Latitude: 36.800888 </td></tr>
+<tr><td>Altitude: 121.391 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-4.134606</longitude>
+              <latitude>36.800888</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-4.134606,36.800888,37.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>S</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -4.024444 </td></tr>
+<tr><td>Latitude: 37.033333 </td></tr>
+<tr><td>Altitude: 3251.312 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-4.024444</longitude>
+              <latitude>37.033333</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-4.024444,37.033333,991.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>W</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -3.895556 </td></tr>
+<tr><td>Latitude: 37.305000 </td></tr>
+<tr><td>Altitude: 3126.640 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-3.895556</longitude>
+              <latitude>37.305000</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-3.895556,37.305000,953.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>WP004</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -3.495150 </td></tr>
+<tr><td>Latitude: 37.309660 </td></tr>
+<tr><td>Altitude: 5531.496 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-3.495150</longitude>
+              <latitude>37.309660</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-3.495150,37.309660,1686.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>WP005</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -3.361931 </td></tr>
+<tr><td>Latitude: 37.469960 </td></tr>
+<tr><td>Altitude: 3543.307 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-3.361931</longitude>
+              <latitude>37.469960</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-3.361931,37.469960,1080.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>YES</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -2.352500 </td></tr>
+<tr><td>Latitude: 38.360833 </td></tr>
+<tr><td>Altitude: 4648.950 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-2.352500</longitude>
+              <latitude>38.360833</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-2.352500,38.360833,1417.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>S</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -1.558056 </td></tr>
+<tr><td>Latitude: 38.826667 </td></tr>
+<tr><td>Altitude: 2837.927 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-1.558056</longitude>
+              <latitude>38.826667</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-1.558056,38.826667,865.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>LE142</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -1.261617 </td></tr>
+<tr><td>Latitude: 39.133050 </td></tr>
+<tr><td>Altitude: 2723.097 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-1.261617</longitude>
+              <latitude>39.133050</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-1.261617,39.133050,830.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>LERE</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -1.034444 </td></tr>
+<tr><td>Latitude: 39.474722 </td></tr>
+<tr><td>Altitude: 2339.239 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-1.034444</longitude>
+              <latitude>39.474722</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-1.034444,39.474722,713.00</coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+-4.134606,36.800888,37.00
+-4.024444,37.033333,991.00
+-3.895556,37.305000,953.00
+-3.495150,37.309660,1686.00
+-3.361931,37.469960,1080.00
+-2.352500,38.360833,1417.00
+-1.558056,38.826667,865.00
+-1.261617,39.133050,830.00
+-1.034444,39.474722,713.00
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Fes Saïss - La Axarquia - Leoni Benabu</name>
+        <Folder>
+          <name>Points</name>
+          <Placemark>
+            <name>GMFF</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -4.978000 </td></tr>
+<tr><td>Latitude: 33.927300 </td></tr>
+<tr><td>Altitude: 1896.325 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-4.978000</longitude>
+              <latitude>33.927300</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-4.978000,33.927300,578.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>BGE SIDI CHAHED</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -5.337389 </td></tr>
+<tr><td>Latitude: 34.077630 </td></tr>
+<tr><td>Altitude: 643.045 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-5.337389</longitude>
+              <latitude>34.077630</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-5.337389,34.077630,196.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>JORF EL MELHA</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -5.511944 </td></tr>
+<tr><td>Latitude: 34.497780 </td></tr>
+<tr><td>Altitude: 255.906 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-5.511944</longitude>
+              <latitude>34.497780</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-5.511944,34.497780,78.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>OUEZZANE</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -5.580935 </td></tr>
+<tr><td>Latitude: 34.798020 </td></tr>
+<tr><td>Altitude: 977.690 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-5.580935</longitude>
+              <latitude>34.798020</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-5.580935,34.798020,298.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>BGE AJRAS</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -5.500212 </td></tr>
+<tr><td>Latitude: 35.582441 </td></tr>
+<tr><td>Altitude: 213.255 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-5.500212</longitude>
+              <latitude>35.582441</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-5.500212,35.582441,65.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GALTO</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -5.143611 </td></tr>
+<tr><td>Latitude: 35.833333 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-5.143611</longitude>
+              <latitude>35.833333</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-5.143611,35.833333</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>MABEL</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -4.672139 </td></tr>
+<tr><td>Latitude: 36.206944 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-4.672139</longitude>
+              <latitude>36.206944</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-4.672139,36.206944</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ETROV</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -4.350833 </td></tr>
+<tr><td>Latitude: 36.380528 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-4.350833</longitude>
+              <latitude>36.380528</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-4.350833,36.380528</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>PISAV</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -4.108889 </td></tr>
+<tr><td>Latitude: 36.586083 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-4.108889</longitude>
+              <latitude>36.586083</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-4.108889,36.586083</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>LEAX</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -4.134606 </td></tr>
+<tr><td>Latitude: 36.800888 </td></tr>
+<tr><td>Altitude: 121.391 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-4.134606</longitude>
+              <latitude>36.800888</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-4.134606,36.800888,37.00</coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+-4.978000,33.927300,578.00
+-5.337389,34.077630,196.00
+-5.511944,34.497780,78.00
+-5.580935,34.798020,298.00
+-5.500212,35.582441,65.00
+-5.143611,35.833333
+-4.672139,36.206944
+-4.350833,36.380528
+-4.108889,36.586083
+-4.134606,36.800888,37.00
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>2022-09-19 Casablanca Tit Mellil - AGADIR  Al Massira</name>
+        <Folder>
+          <name>Points</name>
+          <Placemark>
+            <name>GMMT</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -7.464444 </td></tr>
+<tr><td>Latitude: 33.593611 </td></tr>
+<tr><td>Altitude: 331.365 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-7.464444</longitude>
+              <latitude>33.593611</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-7.464444,33.593611,101.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>WP002</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -7.658750 </td></tr>
+<tr><td>Latitude: 33.735160 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-7.658750</longitude>
+              <latitude>33.735160</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-7.658750,33.735160</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>BASMA</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -8.515000 </td></tr>
+<tr><td>Latitude: 33.230833 </td></tr>
+<tr><td>Altitude: 101.706 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-8.515000</longitude>
+              <latitude>33.230833</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-8.515000,33.230833,31.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>WP004</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -9.277253 </td></tr>
+<tr><td>Latitude: 32.558597 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-9.277253</longitude>
+              <latitude>32.558597</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-9.277253,32.558597</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GMMS</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -9.233300 </td></tr>
+<tr><td>Latitude: 32.283300 </td></tr>
+<tr><td>Altitude: 171.000 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-9.233300</longitude>
+              <latitude>32.283300</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-9.233300,32.283300,52.12</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>WP006</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -9.849561 </td></tr>
+<tr><td>Latitude: 31.387182 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-9.849561</longitude>
+              <latitude>31.387182</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-9.849561,31.387182</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>KOPIR</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -9.890000 </td></tr>
+<tr><td>Latitude: 30.647500 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-9.890000</longitude>
+              <latitude>30.647500</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-9.890000,30.647500</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ARGAB</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -9.777222 </td></tr>
+<tr><td>Latitude: 30.349444 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-9.777222</longitude>
+              <latitude>30.349444</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-9.777222,30.349444</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GMAD</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -9.411389 </td></tr>
+<tr><td>Latitude: 30.322500 </td></tr>
+<tr><td>Altitude: 252.625 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-9.411389</longitude>
+              <latitude>30.322500</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-9.411389,30.322500,77.00</coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+-7.464444,33.593611,101.00
+-7.658750,33.735160
+-8.515000,33.230833,31.00
+-9.277253,32.558597
+-9.233300,32.283300,52.12
+-9.849561,31.387182
+-9.890000,30.647500
+-9.777222,30.349444
+-9.411389,30.322500,77.00
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>2022-09-21 LAAYOUNE - Dakhla</name>
+        <Folder>
+          <name>Points</name>
+          <Placemark>
+            <name>GMML</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -13.219167 </td></tr>
+<tr><td>Latitude: 27.151667 </td></tr>
+<tr><td>Altitude: 223.097 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-13.219167</longitude>
+              <latitude>27.151667</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-13.219167,27.151667,68.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>FOUM AL WAD</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -13.380000 </td></tr>
+<tr><td>Latitude: 27.171110 </td></tr>
+<tr><td>Altitude: 32.808 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-13.380000</longitude>
+              <latitude>27.171110</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-13.380000,27.171110,10.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>Laayoune Plage</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -13.415830 </td></tr>
+<tr><td>Latitude: 27.096110 </td></tr>
+<tr><td>Altitude: 13.123 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-13.415830</longitude>
+              <latitude>27.096110</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-13.415830,27.096110,4.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GIRAL</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -13.546389 </td></tr>
+<tr><td>Latitude: 26.740556 </td></tr>
+<tr><td>Altitude: 150.919 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-13.546389</longitude>
+              <latitude>26.740556</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-13.546389,26.740556,46.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>LESMID</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -13.850000 </td></tr>
+<tr><td>Latitude: 26.541940 </td></tr>
+<tr><td>Altitude: 134.514 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-13.850000</longitude>
+              <latitude>26.541940</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-13.850000,26.541940,41.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>BOUJDOUR</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -14.485000 </td></tr>
+<tr><td>Latitude: 26.123610 </td></tr>
+<tr><td>Altitude: 98.425 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-14.485000</longitude>
+              <latitude>26.123610</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-14.485000,26.123610,30.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GOUERT AIT CANAUIN</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -14.687780 </td></tr>
+<tr><td>Latitude: 25.579440 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-14.687780</longitude>
+              <latitude>25.579440</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-14.687780,25.579440</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>POINTE DE JAUN TORNO</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -14.810830 </td></tr>
+<tr><td>Latitude: 25.325830 </td></tr>
+<tr><td>Altitude: 141.076 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-14.810830</longitude>
+              <latitude>25.325830</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-14.810830,25.325830,43.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>HASSI CRAA</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -14.890000 </td></tr>
+<tr><td>Latitude: 24.747780 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-14.890000</longitude>
+              <latitude>24.747780</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-14.890000,24.747780</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>SKAYMAT</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -15.098330 </td></tr>
+<tr><td>Latitude: 24.531110 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-15.098330</longitude>
+              <latitude>24.531110</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-15.098330,24.531110</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>HASSI LABYAD</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -15.665000 </td></tr>
+<tr><td>Latitude: 23.981390 </td></tr>
+<tr><td>Altitude: 131.234 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-15.665000</longitude>
+              <latitude>23.981390</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-15.665000,23.981390,40.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GMMH</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -15.931944 </td></tr>
+<tr><td>Latitude: 23.718333 </td></tr>
+<tr><td>Altitude: 36.089 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-15.931944</longitude>
+              <latitude>23.718333</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-15.931944,23.718333,11.00</coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+-13.219167,27.151667,68.00
+-13.380000,27.171110,10.00
+-13.415830,27.096110,4.00
+-13.546389,26.740556,46.00
+-13.850000,26.541940,41.00
+-14.485000,26.123610,30.00
+-14.687780,25.579440
+-14.810830,25.325830,43.00
+-14.890000,24.747780
+-15.098330,24.531110
+-15.665000,23.981390,40.00
+-15.931944,23.718333,11.00
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>2022-09-25 Dakhla - LAAYOUNE</name>
+        <Folder>
+          <name>Points</name>
+          <Placemark>
+            <name>GSVO</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -15.931815 </td></tr>
+<tr><td>Latitude: 23.718511 </td></tr>
+<tr><td>Altitude: 32.808 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-15.931815</longitude>
+              <latitude>23.718511</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-15.931815,23.718511,10.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>HASSI LABYAD</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -15.665000 </td></tr>
+<tr><td>Latitude: 23.981390 </td></tr>
+<tr><td>Altitude: 111.549 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-15.665000</longitude>
+              <latitude>23.981390</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-15.665000,23.981390,34.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>SKAYMAT</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -15.098330 </td></tr>
+<tr><td>Latitude: 24.531110 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-15.098330</longitude>
+              <latitude>24.531110</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-15.098330,24.531110</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>HASSI CRAA</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -14.890000 </td></tr>
+<tr><td>Latitude: 24.747780 </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-14.890000</longitude>
+              <latitude>24.747780</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-14.890000,24.747780</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>POINTE DE JAUN TORNO</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -14.810830 </td></tr>
+<tr><td>Latitude: 25.325830 </td></tr>
+<tr><td>Altitude: 49.213 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-14.810830</longitude>
+              <latitude>25.325830</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-14.810830,25.325830,15.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GOUERT AIT CANAUIN</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -14.687780 </td></tr>
+<tr><td>Latitude: 25.579440 </td></tr>
+<tr><td>Altitude: 9.843 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-14.687780</longitude>
+              <latitude>25.579440</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-14.687780,25.579440,3.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>BOUJDOUR</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -14.485000 </td></tr>
+<tr><td>Latitude: 26.123610 </td></tr>
+<tr><td>Altitude: 85.302 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-14.485000</longitude>
+              <latitude>26.123610</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-14.485000,26.123610,26.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>LESMID</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -13.850000 </td></tr>
+<tr><td>Latitude: 26.541940 </td></tr>
+<tr><td>Altitude: 141.076 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-13.850000</longitude>
+              <latitude>26.541940</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-13.850000,26.541940,43.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GIRAL</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -13.546389 </td></tr>
+<tr><td>Latitude: 26.740556 </td></tr>
+<tr><td>Altitude: 150.919 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-13.546389</longitude>
+              <latitude>26.740556</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-13.546389,26.740556,46.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>Laayoune Plage</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -13.415830 </td></tr>
+<tr><td>Latitude: 27.096110 </td></tr>
+<tr><td>Altitude: 9.843 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-13.415830</longitude>
+              <latitude>27.096110</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-13.415830,27.096110,3.00</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>GMML</name>
+            <snippet/>
+            <description><![CDATA[
+<table>
+<tr><td>Longitude: -13.219167 </td></tr>
+<tr><td>Latitude: 27.151667 </td></tr>
+<tr><td>Altitude: 223.097 ft </td></tr>
+</table>
+]]></description>
+            <LookAt>
+              <longitude>-13.219167</longitude>
+              <latitude>27.151667</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <styleUrl>#route</styleUrl>
+            <Point>
+              <coordinates>-13.219167,27.151667,68.00</coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+-15.931815,23.718511,10.00
+-15.665000,23.981390,34.00
+-15.098330,24.531110
+-14.890000,24.747780
+-14.810830,25.325830,15.00
+-14.687780,25.579440,3.00
+-14.485000,26.123610,26.00
+-13.850000,26.541940,43.00
+-13.546389,26.740556,46.00
+-13.415830,27.096110,3.00
+-13.219167,27.151667,68.00
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+    </Folder>
+  </Document>
+</kml>

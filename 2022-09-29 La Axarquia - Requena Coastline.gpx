@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Air Navigation Pro for iOS and Android" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata>
+        <extensions>
+            <userDefinedSpeed>61.733333</userDefinedSpeed>
+        </extensions>
+    </metadata>
+    <wpt lat="36.8008880917408" lon="-4.1346056090881">
+        <ele>37</ele>
+        <name>LEAX</name>
+        <desc>La Axarquía-Leoni Benabu</desc>
+        <type>Airport</type>
+        <extensions>
+            <planned_altitude_after>189</planned_altitude_after>
+        </extensions>
+    </wpt>
+    <wpt lat="36.7545" lon="-3.872675">
+        <ele>60</ele>
+        <name>Nerja</name>
+        <desc>NERJA</desc>
+        <type>Unknown Type</type>
+    </wpt>
+    <wpt lat="36.6406944135805" lon="-3.43838892730201">
+        <ele>0</ele>
+        <name>OBAKA</name>
+        <desc>OBAKA</desc>
+        <type>Significant point</type>
+    </wpt>
+    <wpt lat="36.7463889163822" lon="-2.60805550517288">
+        <ele>0</ele>
+        <name>SW</name>
+        <desc>LEAM</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="36.726944405305" lon="-2.1841666953658">
+        <ele>235</ele>
+        <name>S</name>
+        <desc>LEAM</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="37.4415000088711" lon="-1.46099999601244">
+        <ele>0</ele>
+        <name>NERKU</name>
+        <desc>NERKU</desc>
+        <type>Significant point</type>
+    </wpt>
+    <wpt lat="37.5425000257083" lon="-0.930000011268656">
+        <ele>0</ele>
+        <name>S</name>
+        <desc>LELC</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="37.6147221988598" lon="-0.675277752462497">
+        <ele>0</ele>
+        <name>S-1</name>
+        <desc>LELC</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="37.9877777600602" lon="-0.646388935713486">
+        <ele>0</ele>
+        <name>N</name>
+        <desc>LELC</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="38.0733055619656" lon="-0.230722222888437">
+        <ele>0</ele>
+        <name>MAGAL</name>
+        <desc>MAGAL</desc>
+        <type>Significant point</type>
+    </wpt>
+    <wpt lat="38.4494444340972" lon="-0.0137221699453104">
+        <ele>0</ele>
+        <name>MITOS</name>
+        <desc>MITOS</desc>
+        <type>Significant point</type>
+    </wpt>
+    <wpt lat="38.73951" lon="0.241045">
+        <ele>0</ele>
+        <name>WP012</name>
+        <desc>WP012</desc>
+        <type>Unknown Type</type>
+    </wpt>
+    <wpt lat="39.2660000217155" lon="-0.856833297661358">
+        <ele>666</ele>
+        <name>SERRA</name>
+        <desc>SERRA</desc>
+        <type>Significant point</type>
+    </wpt>
+    <wpt lat="39.4747222256079" lon="-1.03444449572759">
+        <ele>713</ele>
+        <name>LERE</name>
+        <desc>Requena</desc>
+        <type>Airport</type>
+        <extensions/>
+    </wpt>
+    <rte>
+        <name>2022-09-29 La Axarquia - Requena Coastline</name>
+        <rtept lat="36.8008880917408" lon="-4.1346056090881">
+            <ele>37</ele>
+            <name>LEAX</name>
+            <desc>La Axarquía-Leoni Benabu</desc>
+            <type>Airport</type>
+            <extensions>
+                <planned_altitude_after>189</planned_altitude_after>
+            </extensions>
+        </rtept>
+        <rtept lat="36.7545" lon="-3.872675">
+            <ele>60</ele>
+            <name>Nerja</name>
+            <desc>NERJA</desc>
+            <type>Unknown Type</type>
+        </rtept>
+        <rtept lat="36.6406944135805" lon="-3.43838892730201">
+            <ele>0</ele>
+            <name>OBAKA</name>
+            <desc>OBAKA</desc>
+            <type>Significant point</type>
+        </rtept>
+        <rtept lat="36.7463889163822" lon="-2.60805550517288">
+            <ele>0</ele>
+            <name>SW</name>
+            <desc>LEAM</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="36.726944405305" lon="-2.1841666953658">
+            <ele>235</ele>
+            <name>S</name>
+            <desc>LEAM</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="37.4415000088711" lon="-1.46099999601244">
+            <ele>0</ele>
+            <name>NERKU</name>
+            <desc>NERKU</desc>
+            <type>Significant point</type>
+        </rtept>
+        <rtept lat="37.5425000257083" lon="-0.930000011268656">
+            <ele>0</ele>
+            <name>S</name>
+            <desc>LELC</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="37.6147221988598" lon="-0.675277752462497">
+            <ele>0</ele>
+            <name>S-1</name>
+            <desc>LELC</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="37.9877777600602" lon="-0.646388935713486">
+            <ele>0</ele>
+            <name>N</name>
+            <desc>LELC</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="38.0733055619656" lon="-0.230722222888437">
+            <ele>0</ele>
+            <name>MAGAL</name>
+            <desc>MAGAL</desc>
+            <type>Significant point</type>
+        </rtept>
+        <rtept lat="38.4494444340972" lon="-0.0137221699453104">
+            <ele>0</ele>
+            <name>MITOS</name>
+            <desc>MITOS</desc>
+            <type>Significant point</type>
+        </rtept>
+        <rtept lat="38.73951" lon="0.241045">
+            <ele>0</ele>
+            <name>WP012</name>
+            <desc>WP012</desc>
+            <type>Unknown Type</type>
+        </rtept>
+        <rtept lat="39.2660000217155" lon="-0.856833297661358">
+            <ele>666</ele>
+            <name>SERRA</name>
+            <desc>SERRA</desc>
+            <type>Significant point</type>
+        </rtept>
+        <rtept lat="39.4747222256079" lon="-1.03444449572759">
+            <ele>713</ele>
+            <name>LERE</name>
+            <desc>Requena</desc>
+            <type>Airport</type>
+            <extensions/>
+        </rtept>
+    </rte>
+</gpx>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Air Navigation Pro for iOS and Android" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata>
+        <extensions>
+            <userDefinedSpeed>61.733333</userDefinedSpeed>
+        </extensions>
+    </metadata>
+    <wpt lat="31.3991666885549" lon="-9.68305560062323">
+        <ele>128</ele>
+        <name>GMMI</name>
+        <desc>Essaouira Mogador</desc>
+        <type>Airport</type>
+        <extensions>
+            <planned_altitude_after>270</planned_altitude_after>
+        </extensions>
+    </wpt>
+    <wpt lat="32.30305" lon="-9.221111">
+        <ele>63</ele>
+        <name>VILLE DE SAFI</name>
+        <desc>VILLE DE SAFI</desc>
+        <type>Unknown Type</type>
+    </wpt>
+    <wpt lat="32.5076194112316" lon="-9.30538845062256">
+        <ele>0</ele>
+        <name>WP003</name>
+        <desc>WP003</desc>
+        <type>Unknown Type</type>
+        <extensions>
+            <planned_altitude>609.6</planned_altitude>
+        </extensions>
+    </wpt>
+    <wpt lat="33.2308333090327" lon="-8.51500001884499">
+        <ele>31</ele>
+        <name>BASMA</name>
+        <desc>BASMA</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="33.5214972542945" lon="-7.67718609013826">
+        <ele>108</ele>
+        <name>CBA</name>
+        <desc>CASABLANCA / MOHAMED V</desc>
+        <type>DME</type>
+        <extensions>
+            <planned_altitude>725.6</planned_altitude>
+        </extensions>
+    </wpt>
+    <wpt lat="33.5936110993561" lon="-7.46444442489282">
+        <ele>101</ele>
+        <name>GMMT</name>
+        <desc>CASABLANCA / TIT MELLIL</desc>
+        <type>Airport</type>
+        <extensions/>
+    </wpt>
+    <wpt lat="33.4975000174509" lon="-7.33166671061401">
+        <ele>100</ele>
+        <name>KOSAD</name>
+        <desc>KOSAD</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="33.5724999630876" lon="-6.89416667270494">
+        <ele>410</ele>
+        <name>BAKRA</name>
+        <desc>BAKRA</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="33.6975000233856" lon="-6.57500003180281">
+        <ele>349</ele>
+        <name>DONAS</name>
+        <desc>DONAS</desc>
+        <type>Significant point</type>
+    </wpt>
+    <wpt lat="33.82404" lon="-6.06627">
+        <ele>451</ele>
+        <name>Khemisset</name>
+        <desc>KHEMISSET</desc>
+        <type>Unknown Type</type>
+    </wpt>
+    <wpt lat="33.9425" lon="-5.905278">
+        <ele>121</ele>
+        <name>BGE EL KANSERA</name>
+        <desc>BGE EL KANSERA</desc>
+        <type>Unknown Type</type>
+    </wpt>
+    <wpt lat="34.05908" lon="-5.532959">
+        <ele>431</ele>
+        <name>MOULAY IDRISS</name>
+        <desc>MOULAY IDRISS</desc>
+        <type>Unknown Type</type>
+    </wpt>
+    <wpt lat="34.07763" lon="-5.337389">
+        <ele>196</ele>
+        <name>BGE SIDI CHAHED</name>
+        <desc>BGE SIDI CHAHED</desc>
+        <type>Unknown Type</type>
+    </wpt>
+    <wpt lat="33.93917" lon="-5.208889">
+        <ele>467</ele>
+        <name>AIN TAOUJDATE</name>
+        <desc>AIN TAOUJDATE</desc>
+        <type>Unknown Type</type>
+    </wpt>
+    <wpt lat="33.9273000063823" lon="-4.97799999633721">
+        <ele>578</ele>
+        <name>GMFF</name>
+        <desc>FES SAÏSS</desc>
+        <type>Airport</type>
+        <extensions/>
+    </wpt>
+    <rte>
+        <name>Essaouira - Fes</name>
+        <rtept lat="31.3991666885549" lon="-9.68305560062323">
+            <ele>128</ele>
+            <name>GMMI</name>
+            <desc>Essaouira Mogador</desc>
+            <type>Airport</type>
+            <extensions>
+                <planned_altitude_after>270</planned_altitude_after>
+            </extensions>
+        </rtept>
+        <rtept lat="32.30305" lon="-9.221111">
+            <ele>63</ele>
+            <name>VILLE DE SAFI</name>
+            <desc>VILLE DE SAFI</desc>
+            <type>Unknown Type</type>
+        </rtept>
+        <rtept lat="32.5076194112316" lon="-9.30538845062256">
+            <ele>0</ele>
+            <name>WP003</name>
+            <desc>WP003</desc>
+            <type>Unknown Type</type>
+            <extensions>
+                <planned_altitude>609.6</planned_altitude>
+            </extensions>
+        </rtept>
+        <rtept lat="33.2308333090327" lon="-8.51500001884499">
+            <ele>31</ele>
+            <name>BASMA</name>
+            <desc>BASMA</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="33.5214972542945" lon="-7.67718609013826">
+            <ele>108</ele>
+            <name>CBA</name>
+            <desc>CASABLANCA / MOHAMED V</desc>
+            <type>DME</type>
+            <extensions>
+                <planned_altitude>725.6</planned_altitude>
+            </extensions>
+        </rtept>
+        <rtept lat="33.5936110993561" lon="-7.46444442489282">
+            <ele>101</ele>
+            <name>GMMT</name>
+            <desc>CASABLANCA / TIT MELLIL</desc>
+            <type>Airport</type>
+            <extensions/>
+        </rtept>
+        <rtept lat="33.4975000174509" lon="-7.33166671061401">
+            <ele>100</ele>
+            <name>KOSAD</name>
+            <desc>KOSAD</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="33.5724999630876" lon="-6.89416667270494">
+            <ele>410</ele>
+            <name>BAKRA</name>
+            <desc>BAKRA</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="33.6975000233856" lon="-6.57500003180281">
+            <ele>349</ele>
+            <name>DONAS</name>
+            <desc>DONAS</desc>
+            <type>Significant point</type>
+        </rtept>
+        <rtept lat="33.82404" lon="-6.06627">
+            <ele>451</ele>
+            <name>Khemisset</name>
+            <desc>KHEMISSET</desc>
+            <type>Unknown Type</type>
+        </rtept>
+        <rtept lat="33.9425" lon="-5.905278">
+            <ele>121</ele>
+            <name>BGE EL KANSERA</name>
+            <desc>BGE EL KANSERA</desc>
+            <type>Unknown Type</type>
+        </rtept>
+        <rtept lat="34.05908" lon="-5.532959">
+            <ele>431</ele>
+            <name>MOULAY IDRISS</name>
+            <desc>MOULAY IDRISS</desc>
+            <type>Unknown Type</type>
+        </rtept>
+        <rtept lat="34.07763" lon="-5.337389">
+            <ele>196</ele>
+            <name>BGE SIDI CHAHED</name>
+            <desc>BGE SIDI CHAHED</desc>
+            <type>Unknown Type</type>
+        </rtept>
+        <rtept lat="33.93917" lon="-5.208889">
+            <ele>467</ele>
+            <name>AIN TAOUJDATE</name>
+            <desc>AIN TAOUJDATE</desc>
+            <type>Unknown Type</type>
+        </rtept>
+        <rtept lat="33.9273000063823" lon="-4.97799999633721">
+            <ele>578</ele>
+            <name>GMFF</name>
+            <desc>FES SAÏSS</desc>
+            <type>Airport</type>
+            <extensions/>
+        </rtept>
+    </rte>
+</gpx>

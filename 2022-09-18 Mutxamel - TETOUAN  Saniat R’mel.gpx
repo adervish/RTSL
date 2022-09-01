@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Air Navigation Pro for iOS and Android" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata>
+        <extensions>
+            <userDefinedSpeed>61.733333</userDefinedSpeed>
+        </extensions>
+    </metadata>
+    <wpt lat="38.4406000297703" lon="-0.475286060694339">
+        <ele>146.913604736328</ele>
+        <name>LEMU</name>
+        <desc>Mutxamel</desc>
+        <type>Airport</type>
+        <extensions>
+            <planned_altitude_after>296</planned_altitude_after>
+        </extensions>
+    </wpt>
+    <wpt lat="38.3619444589788" lon="-0.407777819863168">
+        <ele>0</ele>
+        <name>NE</name>
+        <desc>LEAL</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="38.16675" lon="-0.447236">
+        <ele>0</ele>
+        <name>WP003</name>
+        <desc>WP003</desc>
+        <type>Unknown Type</type>
+    </wpt>
+    <wpt lat="38.1167222317794" lon="-0.563416630094607">
+        <ele>0</ele>
+        <name>OSVAN</name>
+        <desc>OSVAN</desc>
+        <type>Significant point</type>
+    </wpt>
+    <wpt lat="37.9877777600602" lon="-0.646388935713486">
+        <ele>0</ele>
+        <name>N</name>
+        <desc>LELC</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="37.6147221988598" lon="-0.675277752462497">
+        <ele>0</ele>
+        <name>S-1</name>
+        <desc>LELC</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="37.5425000257083" lon="-0.930000011268656">
+        <ele>0</ele>
+        <name>S</name>
+        <desc>LELC</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="37.4415000088711" lon="-1.46099999601244">
+        <ele>0</ele>
+        <name>NERKU</name>
+        <desc>NERKU</desc>
+        <type>Significant point</type>
+    </wpt>
+    <wpt lat="36.7844722260115" lon="-2.01783330784465">
+        <ele>0</ele>
+        <name>RIXAL</name>
+        <desc>RIXAL</desc>
+        <type>Significant point</type>
+    </wpt>
+    <wpt lat="36.726944405305" lon="-2.1841666953658">
+        <ele>235</ele>
+        <name>S</name>
+        <desc>LEAM</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="36.6406944135805" lon="-3.43838892730201">
+        <ele>0</ele>
+        <name>OBAKA</name>
+        <desc>OBAKA</desc>
+        <type>Significant point</type>
+        <extensions>
+            <planned_altitude>609.6</planned_altitude>
+        </extensions>
+    </wpt>
+    <wpt lat="36.72744" lon="-3.837736">
+        <ele>0</ele>
+        <name>WP012</name>
+        <desc>WP012</desc>
+        <type>Unknown Type</type>
+    </wpt>
+    <wpt lat="36.5860833304567" lon="-4.10888891778972">
+        <ele>0</ele>
+        <name>PISAV</name>
+        <desc>PISAV</desc>
+        <type>Significant point</type>
+    </wpt>
+    <wpt lat="36.3805277473932" lon="-4.35083329545019">
+        <ele>0</ele>
+        <name>ETROV</name>
+        <desc>ETROV</desc>
+        <type>Significant point</type>
+    </wpt>
+    <wpt lat="36.2069444570875" lon="-4.67213885520169">
+        <ele>0</ele>
+        <name>MABEL</name>
+        <desc>MABEL</desc>
+        <type>Significant point</type>
+    </wpt>
+    <wpt lat="35.833333355558" lon="-5.14361114434234">
+        <ele>0</ele>
+        <name>GALTO</name>
+        <desc>GALTO</desc>
+        <type>Significant point</type>
+    </wpt>
+    <wpt lat="35.5944444053388" lon="-5.32000001379242">
+        <ele>42.5</ele>
+        <name>GMTN</name>
+        <desc>TETOUAN / Saniat R’mel</desc>
+        <type>Airport</type>
+        <extensions/>
+    </wpt>
+    <rte>
+        <name>2022-09-18 Mutxamel - TETOUAN  Saniat R’mel</name>
+        <rtept lat="38.4406000297703" lon="-0.475286060694339">
+            <ele>146.913604736328</ele>
+            <name>LEMU</name>
+            <desc>Mutxamel</desc>
+            <type>Airport</type>
+            <extensions>
+                <planned_altitude_after>296</planned_altitude_after>
+            </extensions>
+        </rtept>
+        <rtept lat="38.3619444589788" lon="-0.407777819863168">
+            <ele>0</ele>
+            <name>NE</name>
+            <desc>LEAL</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="38.16675" lon="-0.447236">
+            <ele>0</ele>
+            <name>WP003</name>
+            <desc>WP003</desc>
+            <type>Unknown Type</type>
+        </rtept>
+        <rtept lat="38.1167222317794" lon="-0.563416630094607">
+            <ele>0</ele>
+            <name>OSVAN</name>
+            <desc>OSVAN</desc>
+            <type>Significant point</type>
+        </rtept>
+        <rtept lat="37.9877777600602" lon="-0.646388935713486">
+            <ele>0</ele>
+            <name>N</name>
+            <desc>LELC</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="37.6147221988598" lon="-0.675277752462497">
+            <ele>0</ele>
+            <name>S-1</name>
+            <desc>LELC</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="37.5425000257083" lon="-0.930000011268656">
+            <ele>0</ele>
+            <name>S</name>
+            <desc>LELC</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="37.4415000088711" lon="-1.46099999601244">
+            <ele>0</ele>
+            <name>NERKU</name>
+            <desc>NERKU</desc>
+            <type>Significant point</type>
+        </rtept>
+        <rtept lat="36.7844722260115" lon="-2.01783330784465">
+            <ele>0</ele>
+            <name>RIXAL</name>
+            <desc>RIXAL</desc>
+            <type>Significant point</type>
+        </rtept>
+        <rtept lat="36.726944405305" lon="-2.1841666953658">
+            <ele>235</ele>
+            <name>S</name>
+            <desc>LEAM</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="36.6406944135805" lon="-3.43838892730201">
+            <ele>0</ele>
+            <name>OBAKA</name>
+            <desc>OBAKA</desc>
+            <type>Significant point</type>
+            <extensions>
+                <planned_altitude>609.6</planned_altitude>
+            </extensions>
+        </rtept>
+        <rtept lat="36.72744" lon="-3.837736">
+            <ele>0</ele>
+            <name>WP012</name>
+            <desc>WP012</desc>
+            <type>Unknown Type</type>
+        </rtept>
+        <rtept lat="36.5860833304567" lon="-4.10888891778972">
+            <ele>0</ele>
+            <name>PISAV</name>
+            <desc>PISAV</desc>
+            <type>Significant point</type>
+        </rtept>
+        <rtept lat="36.3805277473932" lon="-4.35083329545019">
+            <ele>0</ele>
+            <name>ETROV</name>
+            <desc>ETROV</desc>
+            <type>Significant point</type>
+        </rtept>
+        <rtept lat="36.2069444570875" lon="-4.67213885520169">
+            <ele>0</ele>
+            <name>MABEL</name>
+            <desc>MABEL</desc>
+            <type>Significant point</type>
+        </rtept>
+        <rtept lat="35.833333355558" lon="-5.14361114434234">
+            <ele>0</ele>
+            <name>GALTO</name>
+            <desc>GALTO</desc>
+            <type>Significant point</type>
+        </rtept>
+        <rtept lat="35.5944444053388" lon="-5.32000001379242">
+            <ele>42.5</ele>
+            <name>GMTN</name>
+            <desc>TETOUAN / Saniat R’mel</desc>
+            <type>Airport</type>
+            <extensions/>
+        </rtept>
+    </rte>
+</gpx>

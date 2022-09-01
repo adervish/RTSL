@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Air Navigation Pro for iOS and Android" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata>
+        <extensions>
+            <userDefinedSpeed>61.733333</userDefinedSpeed>
+        </extensions>
+    </metadata>
+    <wpt lat="36.8008880917408" lon="-4.1346056090881">
+        <ele>37</ele>
+        <name>LEAX</name>
+        <desc>La Axarquía-Leoni Benabu</desc>
+        <type>Airport</type>
+        <extensions>
+            <planned_altitude_after>189</planned_altitude_after>
+        </extensions>
+    </wpt>
+    <wpt lat="37.0333333370722" lon="-4.02444448122617">
+        <ele>991</ele>
+        <name>S</name>
+        <desc>LEGR</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="37.3050000062038" lon="-3.8955555076749">
+        <ele>953</ele>
+        <name>W</name>
+        <desc>LEGR</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="37.30966" lon="-3.49515">
+        <ele>1686</ele>
+        <name>WP004</name>
+        <desc>WP004</desc>
+        <type>Unknown Type</type>
+    </wpt>
+    <wpt lat="37.46996" lon="-3.361931">
+        <ele>1080</ele>
+        <name>WP005</name>
+        <desc>WP005</desc>
+        <type>Unknown Type</type>
+    </wpt>
+    <wpt lat="38.3608333041393" lon="-2.35250002223879">
+        <ele>1417</ele>
+        <name>YES</name>
+        <desc>YESTE</desc>
+        <type>VOR DME</type>
+    </wpt>
+    <wpt lat="38.8266666538403" lon="-1.55805551512664">
+        <ele>865</ele>
+        <name>S</name>
+        <desc>LEAB</desc>
+        <type>Fix</type>
+    </wpt>
+    <wpt lat="39.1330499951533" lon="-1.26161662765809">
+        <ele>830</ele>
+        <name>LE142</name>
+        <desc>Carcelen</desc>
+        <type>Airport</type>
+        <extensions/>
+    </wpt>
+    <wpt lat="39.4747222256079" lon="-1.03444449572759">
+        <ele>713</ele>
+        <name>LERE</name>
+        <desc>Requena</desc>
+        <type>Airport</type>
+        <extensions/>
+    </wpt>
+    <rte>
+        <name>2022-09-29 La Axarquia - Requena</name>
+        <rtept lat="36.8008880917408" lon="-4.1346056090881">
+            <ele>37</ele>
+            <name>LEAX</name>
+            <desc>La Axarquía-Leoni Benabu</desc>
+            <type>Airport</type>
+            <extensions>
+                <planned_altitude_after>189</planned_altitude_after>
+            </extensions>
+        </rtept>
+        <rtept lat="37.0333333370722" lon="-4.02444448122617">
+            <ele>991</ele>
+            <name>S</name>
+            <desc>LEGR</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="37.3050000062038" lon="-3.8955555076749">
+            <ele>953</ele>
+            <name>W</name>
+            <desc>LEGR</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="37.30966" lon="-3.49515">
+            <ele>1686</ele>
+            <name>WP004</name>
+            <desc>WP004</desc>
+            <type>Unknown Type</type>
+        </rtept>
+        <rtept lat="37.46996" lon="-3.361931">
+            <ele>1080</ele>
+            <name>WP005</name>
+            <desc>WP005</desc>
+            <type>Unknown Type</type>
+        </rtept>
+        <rtept lat="38.3608333041393" lon="-2.35250002223879">
+            <ele>1417</ele>
+            <name>YES</name>
+            <desc>YESTE</desc>
+            <type>VOR DME</type>
+        </rtept>
+        <rtept lat="38.8266666538403" lon="-1.55805551512664">
+            <ele>865</ele>
+            <name>S</name>
+            <desc>LEAB</desc>
+            <type>Fix</type>
+        </rtept>
+        <rtept lat="39.1330499951533" lon="-1.26161662765809">
+            <ele>830</ele>
+            <name>LE142</name>
+            <desc>Carcelen</desc>
+            <type>Airport</type>
+            <extensions/>
+        </rtept>
+        <rtept lat="39.4747222256079" lon="-1.03444449572759">
+            <ele>713</ele>
+            <name>LERE</name>
+            <desc>Requena</desc>
+            <type>Airport</type>
+            <extensions/>
+        </rtept>
+    </rte>
+</gpx>
